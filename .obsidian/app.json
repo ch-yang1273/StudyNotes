@@ -1,0 +1,14 @@
+{
+  "defaultViewMode": "preview",
+  "livePreview": false,
+  "showLineNumber": true,
+  "strictLineBreaks": false,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Inbox",
+  "attachmentFolderPath": "Files",
+  "showUnsupportedFiles": true,
+  "useTab": false,
+  "tabSize": 2
+}
