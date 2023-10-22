@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2df2841e3d2971e9",
+        "id": "7050680bfeff172e",
         "type": "tabs",
         "children": [
           {
-            "id": "0d4f1c890c260579",
+            "id": "a7b81012d572cfff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Projects/자바스크립트/모던 자바스크립트 DeepDive - 9장. 타입 변환과 단축 평가.md",
+                "file": "1.Projects/CSS/Kimbug_funnyCSS/FunnyCSS_4.Float.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 527.5110321044922
+    "width": 527.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "065d8a4f3451fb00",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Projects/자바스크립트/모던 자바스크립트 DeepDive - 9장. 타입 변환과 단축 평가.md",
+                "file": "1.Projects/CSS/Kimbug_funnyCSS/FunnyCSS_4.Float.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Projects/자바스크립트/모던 자바스크립트 DeepDive - 9장. 타입 변환과 단축 평가.md",
+                "file": "1.Projects/CSS/Kimbug_funnyCSS/FunnyCSS_4.Float.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Projects/자바스크립트/모던 자바스크립트 DeepDive - 9장. 타입 변환과 단축 평가.md"
+                "file": "1.Projects/CSS/Kimbug_funnyCSS/FunnyCSS_4.Float.md"
               }
             }
           }
@@ -149,35 +150,37 @@
       "workspaces:작업 공간 레이아웃 관리": false
     }
   },
-  "active": "0d4f1c890c260579",
+  "active": "a7b81012d572cfff",
   "lastOpenFiles": [
-    "READMD.md",
-    "새 텍스트 문서.txt",
-    "1.Projects/자바스크립트/모던 자바스크립트 DeepDive - 45장 프로미스.md",
-    "1.Projects/자바스크립트/자바스크립트.md",
-    "1.Projects/자바스크립트/자바스크립트 호이스팅.md",
-    "1.Projects/자바스크립트/JS typeof 연산자.md",
-    "1.Projects/자바스크립트/- JS 어떤 방식의 함수 선언이 권장되나 (함수 선언식, 함수 표현식).md",
-    "1.Projects/CSS/Kimbug_funnyCSS/FunnyCSS_1.강의를 듣는 방법.md",
+    "1.Projects/CSS/Kimbug_funnyCSS/FunnyCSS_5.Position.md",
+    "Files/imageFrom김버그CSS_z-index.png",
+    "Files/imageFrom김버그CSS_float.png",
     "1.Projects/CSS/Kimbug_funnyCSS/FunnyCSS_4.Float.md",
+    "Files/imageFrom생활코딩-Float.png",
+    "1.Projects/CSS/CSS 선택자 우선순위.md",
+    "1.Projects/CSS/CSS 구조적 가상 클래스 선택자 (Structural Pseudo-classes).md",
+    "1.Projects/CSS/@CSS 요약집 만들자.md",
     "1.Projects/CSS/Kimbug_funnyCSS/FunnyCSS_3.Box.md",
     "1.Projects/CSS/Kimbug_funnyCSS/FunnyCSS_2.Selectors (선택자).md",
+    "1.Projects/CSS/Kimbug_funnyCSS/FunnyCSS_1.강의를 듣는 방법.md",
     "1.Projects/CSS/Kimbug_funnyCSS/FunnyCSS - Kimbug.md",
-    "1.Projects/CSS/CSS display-inline-block.md",
-    "1.Projects/CSS/CSS 구조적 가상 클래스 선택자 (Structural Pseudo-classes).md",
-    "Inbox/콜백 헬.md",
-    "3.Resources/책/책.md",
-    "3.Resources/강의/강의.md",
-    "2.Areas/기록법/세컨드브레인(책)/세컨드 브레인 책 요약.md",
-    "1.Projects/CSS/@CSS 요약집 만들자.md",
-    "1.Projects/자바스크립트/@자바스크립트 요약집 만들어야 함.md",
-    "1.Projects/CSS/CSS display-block.md",
-    "1.Projects/CSS/CSS display-inline.md",
-    "1.Projects/자바스크립트/모던 자바스크립트 DeepDive - 4장. 변수 선언.md",
-    "1.Projects/CSS/CSS 선택자 우선순위.md",
+    "1.Projects/자바스크립트/JS typeof 연산자.md",
+    "1.Projects/자바스크립트/자바스크립트 호이스팅.md",
+    "1.Projects/자바스크립트/자바스크립트.md",
+    "1.Projects/자바스크립트/모던 자바스크립트 DeepDive - 45장 프로미스.md",
     "1.Projects/자바스크립트/모던 자바스크립트 DeepDive - 9장. 타입 변환과 단축 평가.md",
-    "1.Projects/자바스크립트/모던 자바스크립트 DeepDive - 7장. 연산자.md",
     "1.Projects/자바스크립트/모던 자바스크립트 DeepDive - 8장. 제어문.md",
+    "1.Projects/자바스크립트/모던 자바스크립트 DeepDive - 7장. 연산자.md",
+    "1.Projects/자바스크립트/모던 자바스크립트 DeepDive - 6장. 데이터 타입.md",
+    "1.Projects/자바스크립트/모던 자바스크립트 DeepDive - 5장. 표현식과 문.md",
+    "1.Projects/자바스크립트/모던 자바스크립트 DeepDive - 4장. 변수 선언.md",
+    "1.Projects/자바스크립트/모던 자바스크립트 DeepDive.md",
+    "1.Projects/자바스크립트/- JS 어떤 방식의 함수 선언이 권장되나 (함수 선언식, 함수 표현식).md",
+    "1.Projects/CSS/CSS display-inline-block.md",
+    "1.Projects/CSS/CSS display-inline.md",
+    "1.Projects/CSS/CSS display-block.md",
+    "1.Projects/CSS/CSS display 속성.md",
+    "새 텍스트 문서.txt",
     "Files/20231010_CSS_Box_Model.png",
     "3.Resources/강의",
     "1.Projects/CSS/Kimbug_funnyCSS",
