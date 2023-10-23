@@ -13,11 +13,11 @@ created: 2023-10-08
 
 ## 구조적 가상 클래스 선택자
 
-![[CSS 구조적 가상 클래스 선택자 (Structural Pseudo-classes)]]
+![[CSS 구조적 가상 클래스 선택자]]
 
 ## 동적 가상 클래스 선택자
 
-![[CSS 동적 가상 클래스 선택자 (User Action Pseudo-classes)]]
+![[CSS 동적 가상 클래스 선택자]]
 
 ## CSS 선택자 우선순위
 
