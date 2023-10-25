@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Projects/CSS/Kimbug_funnyCSS/FunnyCSS_6.Flex.md",
+                "file": "1.Projects/자바스크립트/- 클로저를 이해하려면 실행컨텍스트와 스코프체인을 먼저 이해해야 합니다.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 539.5110321044922
+    "width": 369.5110321044922
   },
   "right": {
     "id": "065d8a4f3451fb00",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Projects/CSS/Kimbug_funnyCSS/FunnyCSS_6.Flex.md",
+                "file": "1.Projects/자바스크립트/- 클로저를 이해하려면 실행컨텍스트와 스코프체인을 먼저 이해해야 합니다.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Projects/CSS/Kimbug_funnyCSS/FunnyCSS_6.Flex.md",
+                "file": "1.Projects/자바스크립트/- 클로저를 이해하려면 실행컨텍스트와 스코프체인을 먼저 이해해야 합니다.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Projects/CSS/Kimbug_funnyCSS/FunnyCSS_6.Flex.md"
+                "file": "1.Projects/자바스크립트/- 클로저를 이해하려면 실행컨텍스트와 스코프체인을 먼저 이해해야 합니다.md"
               }
             }
           }
@@ -151,10 +151,13 @@
   },
   "active": "a7b81012d572cfff",
   "lastOpenFiles": [
+    "1.Projects/자바스크립트/모던 자바스크립트 DeepDive - 9장. 타입 변환과 단축 평가.md",
+    "1.Projects/자바스크립트/- 클로저를 이해하려면 실행컨텍스트와 스코프체인을 먼저 이해해야 합니다.md",
+    "1.Projects/자바스크립트/모던 자바스크립트 DeepDive - 45장. 프로미스.md",
+    "1.Projects/CSS/Kimbug_funnyCSS/FunnyCSS_6.Flex.md",
     "Files/imageFrom김버그CSS_alignContent.png",
     "Files/imageFrom김버그CSS_alignItems.png",
     "Files/imageFrom김버그CSS_z-index.png",
-    "1.Projects/CSS/Kimbug_funnyCSS/FunnyCSS_6.Flex.md",
     "1.Projects/CSS/Kimbug_funnyCSS/FunnyCSS_3.Box.md",
     "1.Projects/CSS/Kimbug_funnyCSS/FunnyCSS - Kimbug.md",
     "1.Projects/CSS/Kimbug_funnyCSS/FunnyCSS_5.Position.md",
@@ -170,8 +173,6 @@
     "1.Projects/CSS/Kimbug_funnyCSS/FunnyCSS_1.강의를 듣는 방법.md",
     "1.Projects/자바스크립트/JS typeof 연산자.md",
     "1.Projects/자바스크립트/자바스크립트.md",
-    "1.Projects/자바스크립트/모던 자바스크립트 DeepDive - 45장 프로미스.md",
-    "1.Projects/자바스크립트/모던 자바스크립트 DeepDive - 9장. 타입 변환과 단축 평가.md",
     "1.Projects/자바스크립트/모던 자바스크립트 DeepDive - 8장. 제어문.md",
     "1.Projects/자바스크립트/모던 자바스크립트 DeepDive - 7장. 연산자.md",
     "1.Projects/자바스크립트/모던 자바스크립트 DeepDive - 6장. 데이터 타입.md",
