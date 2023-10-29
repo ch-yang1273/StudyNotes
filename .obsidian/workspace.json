@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Projects/자바스크립트/- 클로저를 이해하려면 실행컨텍스트와 스코프체인을 먼저 이해해야 합니다.md",
-                "mode": "preview",
+                "file": "2.Areas/기록법/제텔카스텐_슬기로운메모생활/제텔카스텐 3부. 성공적인 글쓰기에 이르는 여섯 단계.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Projects/자바스크립트/- 클로저를 이해하려면 실행컨텍스트와 스코프체인을 먼저 이해해야 합니다.md",
+                "file": "2.Areas/기록법/제텔카스텐_슬기로운메모생활/제텔카스텐 3부. 성공적인 글쓰기에 이르는 여섯 단계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Projects/자바스크립트/- 클로저를 이해하려면 실행컨텍스트와 스코프체인을 먼저 이해해야 합니다.md",
+                "file": "2.Areas/기록법/제텔카스텐_슬기로운메모생활/제텔카스텐 3부. 성공적인 글쓰기에 이르는 여섯 단계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Projects/자바스크립트/- 클로저를 이해하려면 실행컨텍스트와 스코프체인을 먼저 이해해야 합니다.md"
+                "file": "2.Areas/기록법/제텔카스텐_슬기로운메모생활/제텔카스텐 3부. 성공적인 글쓰기에 이르는 여섯 단계.md"
               }
             }
           }
@@ -151,47 +151,47 @@
   },
   "active": "a7b81012d572cfff",
   "lastOpenFiles": [
-    "1.Projects/자바스크립트/모던 자바스크립트 DeepDive - 9장. 타입 변환과 단축 평가.md",
+    "2.Areas/기록법/제텔카스텐_슬기로운메모생활/제텔카스텐 - 2부. 네 가지 기본 원칙.md",
+    "2.Areas/기록법/제텔카스텐_슬기로운메모생활/제텔카스텐 3부. 성공적인 글쓰기에 이르는 여섯 단계.md",
+    "2.Areas/기록법/제텔카스텐_슬기로운메모생활/제텔카스텐 - 1부. 도입.md",
+    "3.Resources/책/책.md",
+    "3.Resources/책/모던 자바스크립트/모던 자바스크립트 DeepDive.md",
+    "2.Areas/기록법/제텔카스텐_슬기로운메모생활",
     "1.Projects/자바스크립트/- 클로저를 이해하려면 실행컨텍스트와 스코프체인을 먼저 이해해야 합니다.md",
-    "1.Projects/자바스크립트/모던 자바스크립트 DeepDive - 45장. 프로미스.md",
-    "1.Projects/CSS/Kimbug_funnyCSS/FunnyCSS_6.Flex.md",
+    "3.Resources/책/모던 자바스크립트",
+    "3.Resources/책/모던 자바스크립트/모던 자바스크립트 DeepDive - 9장. 타입 변환과 단축 평가.md",
+    "3.Resources/책/모던 자바스크립트/모던 자바스크립트 DeepDive - 45장. 프로미스.md",
+    "3.Resources/강의/Kimbug_funnyCSS/FunnyCSS_6.Flex.md",
     "Files/imageFrom김버그CSS_alignContent.png",
     "Files/imageFrom김버그CSS_alignItems.png",
     "Files/imageFrom김버그CSS_z-index.png",
-    "1.Projects/CSS/Kimbug_funnyCSS/FunnyCSS_3.Box.md",
-    "1.Projects/CSS/Kimbug_funnyCSS/FunnyCSS - Kimbug.md",
-    "1.Projects/CSS/Kimbug_funnyCSS/FunnyCSS_5.Position.md",
+    "3.Resources/강의/Kimbug_funnyCSS/FunnyCSS_3.Box.md",
+    "3.Resources/강의/Kimbug_funnyCSS/FunnyCSS - Kimbug.md",
+    "3.Resources/강의/Kimbug_funnyCSS/FunnyCSS_5.Position.md",
     "1.Projects/자바스크립트/자바스크립트 호이스팅.md",
     "1.Projects/CSS/CSS 선택자 우선순위.md",
     "1.Projects/CSS/CSS 동적 가상 클래스 선택자.md",
     "1.Projects/CSS/CSS 구조적 가상 클래스 선택자.md",
-    "1.Projects/CSS/Kimbug_funnyCSS/FunnyCSS_4.Float.md",
+    "3.Resources/강의/Kimbug_funnyCSS/FunnyCSS_4.Float.md",
     "Files/imageFrom김버그CSS_float.png",
     "Files/imageFrom생활코딩-Float.png",
     "1.Projects/CSS/@CSS 요약집 만들자.md",
-    "1.Projects/CSS/Kimbug_funnyCSS/FunnyCSS_2.Selectors (선택자).md",
-    "1.Projects/CSS/Kimbug_funnyCSS/FunnyCSS_1.강의를 듣는 방법.md",
+    "3.Resources/강의/Kimbug_funnyCSS/FunnyCSS_2.Selectors (선택자).md",
+    "3.Resources/강의/Kimbug_funnyCSS/FunnyCSS_1.강의를 듣는 방법.md",
     "1.Projects/자바스크립트/JS typeof 연산자.md",
     "1.Projects/자바스크립트/자바스크립트.md",
-    "1.Projects/자바스크립트/모던 자바스크립트 DeepDive - 8장. 제어문.md",
-    "1.Projects/자바스크립트/모던 자바스크립트 DeepDive - 7장. 연산자.md",
-    "1.Projects/자바스크립트/모던 자바스크립트 DeepDive - 6장. 데이터 타입.md",
-    "1.Projects/자바스크립트/모던 자바스크립트 DeepDive - 5장. 표현식과 문.md",
-    "1.Projects/자바스크립트/모던 자바스크립트 DeepDive - 4장. 변수 선언.md",
-    "1.Projects/자바스크립트/모던 자바스크립트 DeepDive.md",
-    "1.Projects/자바스크립트/- JS 어떤 방식의 함수 선언이 권장되나 (함수 선언식, 함수 표현식).md",
-    "1.Projects/CSS/CSS display-inline-block.md",
-    "1.Projects/CSS/CSS display-inline.md",
+    "3.Resources/책/모던 자바스크립트/모던 자바스크립트 DeepDive - 8장. 제어문.md",
+    "3.Resources/책/모던 자바스크립트/모던 자바스크립트 DeepDive - 7장. 연산자.md",
+    "3.Resources/책/모던 자바스크립트/모던 자바스크립트 DeepDive - 6장. 데이터 타입.md",
+    "3.Resources/책/모던 자바스크립트/모던 자바스크립트 DeepDive - 5장. 표현식과 문.md",
     "새 텍스트 문서.txt",
     "Files/20231010_CSS_Box_Model.png",
     "3.Resources/강의",
-    "1.Projects/CSS/Kimbug_funnyCSS",
+    "3.Resources/강의/Kimbug_funnyCSS",
     "1.Projects/CSS",
     "3.Resources/책",
     "Templates",
     "2.Areas/기록법/옵시디언",
-    "2.Areas/기록법",
-    "Files",
-    "Inbox"
+    "2.Areas/기록법"
   ]
 }
