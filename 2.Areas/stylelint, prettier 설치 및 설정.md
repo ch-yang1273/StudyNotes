@@ -72,9 +72,49 @@ npm install --save-dev stylelint-config-standard
 npm install --save-dev stylelint-config-prettier
 ```
 
-### 버전 정보 확인
+### 호환성 오류
 
-해당 패키지의 최신 버전을 알 수 있습니다.
+stylelint의 버전(15.11.0)이 너무 높고, 15보다는 낮아야 한다고 합니다.
+
+```bash
+λ npm install --save-dev stylelint-config-prettier
+npm ERR! code ERESOLVE
+npm ERR! ERESOLVE unable to resolve dependency tree
+npm ERR!
+npm ERR! While resolving: css_sass@1.0.0
+npm ERR! Found: stylelint@15.11.0
+npm ERR! node_modules/stylelint
+npm ERR!   dev stylelint@"^15.11.0" from the root project
+npm ERR!
+npm ERR! Could not resolve dependency:
+npm ERR! peer stylelint@">= 11.x < 15" from stylelint-config-prettier@9.0.5
+npm ERR! node_modules/stylelint-config-prettier
+npm ERR!   dev stylelint-config-prettier@"*" from the root project
+npm ERR!
+npm ERR! Fix the upstream dependency conflict, or retry
+npm ERR! this command with --force or --legacy-peer-deps
+npm ERR! to accept an incorrect (and potentially broken) dependency resolution.
+```
+
+`package.json`에서 `devDependencies` 내용을 모두 지우고 `npm install`로 반영먼저 했습니다.
+
+```bash
+npm install --save-dev stylelint@^14.0.0
+npm install --save-dev stylelint-config-standard@^29.0.0
+npm install --save-dev stylelint-config-prettier
+```
+
+![[Pasted image 20231102082702.png]]
+
+```json
+"devDependencies": {
+  "stylelint": "^14.0.0",
+  "stylelint-config-prettier": "^9.0.5",
+  "stylelint-config-standard": "^29.0.0"
+}
+```
+
+#### 해당 패키지의 최신 버전을 알 수 있습니다.
 
 ```bash
 npm show stylelint version
