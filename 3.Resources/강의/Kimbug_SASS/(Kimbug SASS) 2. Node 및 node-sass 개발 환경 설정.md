@@ -1,4 +1,7 @@
-# SASS
+---
+created: 2023-10-31
+---
+키워드:: [[(KimBug SASS)]]
 
 ## 개발 환경 설정
 
@@ -35,7 +38,7 @@ npm i node-sass
 "scripts": {
   "test": "echo \"Error: no test specified\" && exit 1",
   "node-sass": "node-sass",
-  "sass": "node-sass styles/main.scss ./style.css"
+  "sass": "node-sass -wr styles/main.scss ./style.css"
 },
 ```
 
@@ -46,3 +49,6 @@ npm run test
 npm run node-sass
 npm run sass
 ```
+
+파일 및 폴더 변경 감지 (-wr)
+![[Pasted image 20231031232154.png]]
