@@ -3,14 +3,23 @@ created: 2023-10-31
 ---
 키워드:: [[자바스크립트]] [[CSS]]
 
+# node-sass 내용 Prettier 내용 stylelint 내용 너무 섞였다.
+
 ## stylelint
 
 sass-lint는 정상적으로 동작하지 않았습니다. 사용자도 더 많고, 계속 업데이트되는 stylelint를 사용합니다.
 
 ### stylelint 설치
 
-```shell
-npm install --save-dev stylelint stylelint-config-standard stylelint-config-prettier stylelint-config-clean-order
+먼저 VSCode에 `stylelint`  확장을 설치하고 다음을 진행합니다. 
+
+호환성 관련 이슈가 있어 버전을 지정했습니다.
+
+```bash
+npm install --save-dev stylelint@^14.0.0
+npm install --save-dev stylelint-config-standard@^29.0.0
+npm install --save-dev stylelint-config-prettier
+npm install --save-dev stylelint-config-clean-order
 ```
 
 설명을 찾다 보니 `Prettier`와 충돌이 좀 있는 것 같아 "stylelint-config-prettier" 패키지도 받았습니다.
@@ -32,19 +41,36 @@ npm install --save-dev stylelint stylelint-config-standard stylelint-config-pret
 
 주의! "stylelint-config-prettier"가 뒤에 있어야 `Prettier`와 충돌하는 `Stylelint` 규칙들이 무시됩니다. 후 순위가 덮는 로직인가 봅니다.
 
-### stylelint, prettier VSCode 설정
+#### stylelint 확장 설치 후 활성화
+
+## Prettier
+
+### prettier VSCode 설정
 
 Stylelint와 Prettier 확장을 설치하고 활성화합니다.
 
 `Ctrl + ,`을 눌러 VSCode 설정을 열고 `Format On Save`를 검색하여 체크합니다. 파일 저장할 때 자동으로 Prettier가 실행됩니다.
 
-이제 코드를 작성하고 저장할 때마다 Prettier가 자동으로 코드를 포맷하고, Stylelint 규칙에 따라 코드에 문제가 있으면 오류나 경고를 볼 수 있습니다.
+#### .prettierrc
 
-#### 자동 수정
+프로젝트 최상단에 `.prettierrc` 파일을 생성 후 다음을 작성합니다.
+
+```json
+{
+  "semi": false,
+  "singleQuote": true,
+  "endOfLine": "lf",
+  "tabWidth": 2,
+  "useTabs": false
+}
+```
+
+#### 자동 수정 활성화
 
 `ctrl + ,` + setting.json 에서 다음 내용을 추가 합니다. 저장 시 자동으로 수정을 해줍니다.
 
 ```json
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
   "stylelint.enable": true,
   "css.validate": false,
   "less.validate": false,
@@ -54,26 +80,7 @@ Stylelint와 Prettier 확장을 설치하고 활성화합니다.
 
 ![[Pasted image 20231102224620.png]]
 
-### pacakage.json에 명령어 추가
-
-```json
-{
-  "scripts": {
-    "lint:css": "stylelint --ignore-path .gitignore '**/*.css'",
-    "lint:css:fix": "stylelint --ignore-path .gitignore '**/*.css' --fix"
-  },
-  "devDependencies": {
-    "stylelint": "^13.13.1",
-    "stylelint-config-standard": "^22.0.0",
-    "stylelint-config-prettier": "^9.0.3"
-  }
-}
-```
-
-`lint:css`: 모든 CSS 파일을 lint하며, `.gitignore` 파일에 명시된 패턴을 무시합니다
-`"lint:css:fix"`: 모든 CSS 파일을 lint 하고, 가능한 에러를 자동으로 수정합니다
-
-`devDependencies`는 개발할 때만 사용하는 라이브러리 설정인 것 같은데, 좀 더 알아봐야겠다. #search/devDependencies
+이제 코드를 작성하고 저장할 때마다 Prettier가 자동으로 코드를 포맷하고, Stylelint 규칙에 따라 코드에 문제가 있으면 오류나 경고를 볼 수 있습니다.
 
 ```
 npm install --save-dev stylelint
@@ -126,6 +133,7 @@ npm ERR! to accept an incorrect (and potentially broken) dependency resolution.
 npm install --save-dev stylelint@^14.0.0
 npm install --save-dev stylelint-config-standard@^29.0.0
 npm install --save-dev stylelint-config-prettier
+npm install --save-dev stylelint-config-clean-order
 ```
 
 #### 패키지 설치 결과 버전 확인
@@ -133,10 +141,13 @@ npm install --save-dev stylelint-config-prettier
 ```json
 "devDependencies": {
   "stylelint": "^14.0.0",
+  "stylelint-config-clean-order": "^5.2.0",
   "stylelint-config-prettier": "^9.0.5",
   "stylelint-config-standard": "^29.0.0"
 }
 ```
+
+`devDependencies`는 개발할 때만 사용하는 라이브러리 설정인 것 같은데, 좀 더 알아봐야겠다. #search/devDependencies
 
 #### 참고: 해당 패키지의 최신 버전 확인
 
@@ -145,3 +156,6 @@ npm show stylelint version
 npm show stylelint-config-standard version
 npm show stylelint-config-prettier version
 ```
+
+![[Pasted image 20231102230506.png]]
+![[Pasted image 20231102230532.png]]
