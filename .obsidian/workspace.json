@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Projects/CSS/선택자/CSS 구조적 가상 클래스 선택자.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "77faef6ba1e894f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.Projects/CSS/Vector, Raster 이미지.md",
+                "file": "3.Resources/Git의 작업 영역 구조.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Projects/CSS/Vector, Raster 이미지.md",
+                "file": "3.Resources/Git의 작업 영역 구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Projects/CSS/Vector, Raster 이미지.md",
+                "file": "3.Resources/Git의 작업 영역 구조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Projects/CSS/Vector, Raster 이미지.md"
+                "file": "3.Resources/Git의 작업 영역 구조.md"
               }
             }
           }
@@ -164,10 +150,20 @@
       "workspaces:작업 공간 레이아웃 관리": false
     }
   },
-  "active": "77faef6ba1e894f3",
+  "active": "88097114d9848019",
   "lastOpenFiles": [
-    "1.Projects/CSS/구글 Network Font를 적용하는 방법.md",
+    "Files/Git_Remote-Tracking_Branch.png",
+    "Files/Remote-Tracking_Branch.png",
+    "Files/Git_작업영역 - 복사본.png",
+    "Files/Git_작업영역.png",
+    "3.Resources/Git의 작업 영역 구조.md",
+    "Files/Pasted image 20231105183034.png",
+    "Files/Pasted image 20231105182227.png",
+    "Files/Pasted image 20231102230532.png",
+    "Files/Pasted image 20231105181157.png",
+    "3.Resources/Git.md",
     "1.Projects/CSS/Vector, Raster 이미지.md",
+    "1.Projects/CSS/구글 Network Font를 적용하는 방법.md",
     "3.Resources/강의/Kimbug_SASS/(Kimbug SASS) 3. Font.md",
     "1.Projects/CSS/@CSS 요약집 만들자.md",
     "1.Projects/CSS/선택자/CSS 동적 가상 클래스 선택자.md",
@@ -178,13 +174,10 @@
     "3.Resources/강의/Kimbug_SASS/(Kimbug SASS) 2. Node 및 node-sass 개발 환경 설정.md",
     "2.Areas/stylelint, prettier 설치 및 설정.md",
     "3.Resources/강의/Kimbug_SASS/(Kimbug SASS) 1. 강의 자료.md",
-    "Files/Pasted image 20231102230532.png",
     "Files/Pasted image 20231102230506.png",
     "Files/Pasted image 20231102224620.png",
     "Files/Pasted image 20231102082702.png",
-    "Files/Pasted image 20231031232154.png",
     "3.Resources/강의/Kimbug_SASS/README (작성 후 GitHub으로 이동).md",
-    "Files/imageFrom생활코딩-Float.png",
     "3.Resources/강의/Kimbug_SASS/README.md",
     "3.Resources/강의/Kimbug_SASS/(KimBug SASS).md",
     "3.Resources/강의/Kimbug_funnyCSS/FunnyCSS - Kimbug.md",
@@ -200,13 +193,6 @@
     "3.Resources/책/모던 자바스크립트/모던 자바스크립트 DeepDive - 9장. 타입 변환과 단축 평가.md",
     "3.Resources/책/모던 자바스크립트/모던 자바스크립트 DeepDive - 45장. 프로미스.md",
     "3.Resources/강의/Kimbug_funnyCSS/FunnyCSS_6.Flex.md",
-    "Files/imageFrom김버그CSS_alignContent.png",
-    "Files/imageFrom김버그CSS_alignItems.png",
-    "Files/imageFrom김버그CSS_z-index.png",
-    "3.Resources/강의/Kimbug_funnyCSS/FunnyCSS_3.Box.md",
-    "3.Resources/강의/Kimbug_funnyCSS/FunnyCSS_5.Position.md",
-    "1.Projects/자바스크립트/자바스크립트 호이스팅.md",
-    "Files/imageFrom김버그CSS_float.png",
     "새 텍스트 문서.txt",
     "3.Resources/강의",
     "3.Resources/강의/Kimbug_funnyCSS",
