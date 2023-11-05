@@ -8,4 +8,4 @@ created: 2023-11-02
 - Noto Sans KR
 - Tahoma : Windows, Mac에서 대부분 기본 제공한다.
 
-![[구글 Network Font를 적용하는 방법]]
+![[구글 Network Font를 적용하기]]

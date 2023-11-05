@@ -3,6 +3,8 @@ created: 2023-11-05
 ---
 키워드:: [[Git]]
 
+> [Git] 리모트-트래킹 브랜치 (Remote-tracking branches)으로 제목 바꾸고 , Remote-tracking branches 중심으로 내용 다시 구성해서 블로그 글 작성해야겠다.
+
 ## Git Local
 
 Local에서 사용하는 Git 작업 영역은 `Working Directory`, `Staging Area`, `Repository (Local)` 세 가지가 있습니다.
@@ -43,7 +45,7 @@ GitHub과 같은 Remote Repository를 사용하며 작업을 진행할 때, `ori
 
 `git fetch` 명령어는 알 수 없었던 Remote Repository의 최신 정보를 가져와 `Remote-tracking branches`에 반영합니다. 이 명령어를 통해 원격에서 어떤 변경이 있었는지 확인할 수 있습니다. 
 
-Local 영역에서 `origin/master`, `origin/branch1`과 같은 브랜치의 상태를 확인 할 수 있는 것은 이 `Remote-tracking branches`에 반영되어 가시화 되었기 때문입니다.
+Local 영역에서 `origin/master`, `origin/branch1`과 같은 브랜치의 상태를 확인 할 수 있는 것은 사실 Remote branch를 보고 있는 것이 아니라. 이 가시화 된 `Remote-tracking branches`를 보고 있는 것 입니다.
 
 ### fetch vs. pull
 
