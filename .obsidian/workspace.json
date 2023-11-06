@@ -11,8 +11,13 @@
             "id": "4361786c83a2fa32",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1.Projects/CSS/node-sass --source-map 옵션.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -65,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5110321044922
+    "width": 317.5110321044922
   },
   "right": {
     "id": "065d8a4f3451fb00",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1.Projects/CSS/node-sass --source-map 옵션.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1.Projects/CSS/node-sass --source-map 옵션.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1.Projects/CSS/node-sass --source-map 옵션.md"
+              }
             }
           }
         ],
@@ -142,12 +151,19 @@
   },
   "active": "4361786c83a2fa32",
   "lastOpenFiles": [
+    "Files/Pasted image 20231107041634.png",
+    "Files/Pasted image 20231107041549.png",
+    "3.Resources/강의/Kimbug_SASS/(Kimbug SASS) 7. Reset CSS.md",
+    "1.Projects/CSS/node-sass --source-map 옵션.md",
+    "3.Resources/강의/Kimbug_SASS/(Kimbug SASS) 6. favicon.md",
+    "Files/Pasted image 20231107014653.png",
+    "3.Resources/강의/Kimbug_SASS/(KimBug SASS).md",
+    "3.Resources/강의/Kimbug_SASS/(Kimbug SASS) 1. 강의 자료.md",
     "3.Resources/강의/Kimbug_SASS/(Kimbug SASS) 5. icon-fonts.md",
     "3.Resources/강의/Kimbug_SASS/(Kimbug SASS) 4. image export.md",
     "3.Resources/강의/Kimbug_SASS/(Kimbug SASS) 3. Font.md",
     "3.Resources/(Git) 리모트-트래킹 브랜치 (Remote-tracking branches).md",
     "2.Areas/stylelint, prettier 설치 및 설정.md",
-    "3.Resources/강의/Kimbug_SASS/(Kimbug SASS) 1. 강의 자료.md",
     "3.Resources/강의/Kimbug_SASS/(Kimbug SASS) 2. Node 및 node-sass 개발 환경 설정.md",
     "1.Projects/CSS/구글 Network Font를 적용하기.md",
     "1.Projects/CSS/CSS box-sizing 속성.md",
@@ -169,18 +185,11 @@
     "1.Projects/CSS/선택자/CSS 태그, 클래스, 아이디 선택자 (tag, class, id).md",
     "1.Projects/CSS/선택자/CSS 구조적 가상 클래스 선택자.md",
     "1.Projects/CSS/선택자",
-    "Files/Pasted image 20231102230506.png",
-    "Files/Pasted image 20231102224620.png",
     "3.Resources/강의/Kimbug_SASS/README (작성 후 GitHub으로 이동).md",
     "3.Resources/강의/Kimbug_SASS/README.md",
-    "3.Resources/강의/Kimbug_SASS/(KimBug SASS).md",
     "3.Resources/강의/Kimbug_funnyCSS/FunnyCSS - Kimbug.md",
     "2.Areas/기록법/제텔카스텐_슬기로운메모생활/제텔카스텐 - 3부. 성공적인 글쓰기에 이르는 여섯 단계.md",
     "3.Resources/강의/Kimbug_SASS",
-    "2.Areas/기록법/제텔카스텐_슬기로운메모생활/제텔카스텐 - 2부. 네 가지 기본 원칙.md",
-    "2.Areas/기록법/제텔카스텐_슬기로운메모생활/제텔카스텐 - 1부. 도입.md",
-    "3.Resources/책/책.md",
-    "3.Resources/책/모던 자바스크립트/모던 자바스크립트 DeepDive.md",
     "2.Areas/기록법/제텔카스텐_슬기로운메모생활",
     "3.Resources/책/모던 자바스크립트",
     "새 텍스트 문서.txt",
