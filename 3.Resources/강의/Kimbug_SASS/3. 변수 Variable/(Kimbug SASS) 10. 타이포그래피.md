@@ -40,3 +40,29 @@ $font-size-24: 24px;
 $line-height-24: 34px;
 $letter-spacing-24: -0.01em;
 ```
+
+## 적용
+
+`_reset.scss`에 적용해줬다.
+
+```scss
+* {
+  margin: 0;
+  font-family: $font-main;
+  box-sizing: border-box;
+  // font smoothing 검색하면 모질라에 나온다.
+  // font가 부드러워 진다 함.
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h_tml {
+  font-family: $font-main;
+  font-size: $font-size-16;
+}
+
+body {
+  font-family: $font-main;
+  color: $primary;
+}
+```

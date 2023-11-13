@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "08dbe0b84c78f5cb",
+        "id": "1ffc4e577b696bad",
         "type": "tabs",
         "children": [
           {
-            "id": "4361786c83a2fa32",
+            "id": "47a0f7c653470bcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5110321044922,
-    "collapsed": true
+    "width": 389.5110321044922
   },
   "right": {
     "id": "065d8a4f3451fb00",
@@ -150,11 +149,11 @@
       "workspaces:작업 공간 레이아웃 관리": false
     }
   },
-  "active": "4361786c83a2fa32",
+  "active": "47a0f7c653470bcc",
   "lastOpenFiles": [
-    "Files/Pasted image 20231114052542.png",
     "3.Resources/강의/Kimbug_SASS/3. 변수 Variable/(Kimbug SASS) 9. 색상 팔레트.md",
     "3.Resources/강의/Kimbug_SASS/3. 변수 Variable/(Kimbug SASS) 10. 타이포그래피.md",
+    "Files/Pasted image 20231114052542.png",
     "3.Resources/강의/Kimbug_SASS/2. Assets/(Kimbug SASS) 7. Reset CSS.md",
     "3.Resources/강의/Kimbug_SASS/3. 변수 Variable",
     "3.Resources/강의/Kimbug_SASS/2. Assets/(Kimbug SASS) 6. favicon.md",
@@ -186,7 +185,6 @@
     "Files/Git_작업영역.png",
     "Files/Pasted image 20231105183034.png",
     "Files/Pasted image 20231105182227.png",
-    "Files/Pasted image 20231102230532.png",
     "3.Resources/Git.md",
     "1.Projects/CSS/선택자/CSS 동적 가상 클래스 선택자.md",
     "1.Projects/CSS/display",
