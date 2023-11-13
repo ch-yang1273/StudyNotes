@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/강의/Kimbug_SASS/(Kimbug SASS) 9. 색상 팔레트.md",
+                "file": "3.Resources/강의/Kimbug_SASS/3. 변수 Variable/(Kimbug SASS) 10. 타이포그래피.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5110321044922,
+    "width": 389.5110321044922,
     "collapsed": true
   },
   "right": {
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resources/강의/Kimbug_SASS/(Kimbug SASS) 9. 색상 팔레트.md",
+                "file": "3.Resources/강의/Kimbug_SASS/3. 변수 Variable/(Kimbug SASS) 10. 타이포그래피.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resources/강의/Kimbug_SASS/(Kimbug SASS) 9. 색상 팔레트.md",
+                "file": "3.Resources/강의/Kimbug_SASS/3. 변수 Variable/(Kimbug SASS) 10. 타이포그래피.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/강의/Kimbug_SASS/(Kimbug SASS) 9. 색상 팔레트.md"
+                "file": "3.Resources/강의/Kimbug_SASS/3. 변수 Variable/(Kimbug SASS) 10. 타이포그래피.md"
               }
             }
           }
@@ -152,23 +152,28 @@
   },
   "active": "4361786c83a2fa32",
   "lastOpenFiles": [
-    "3.Resources/강의/Kimbug_SASS/(Kimbug SASS) 8. 변수.md",
-    "3.Resources/강의/Kimbug_SASS/(Kimbug SASS) 9. 색상 팔레트.md",
-    "3.Resources/강의/Kimbug_SASS/(Kimbug SASS) 7. Reset CSS.md",
+    "Files/Pasted image 20231114052542.png",
+    "3.Resources/강의/Kimbug_SASS/3. 변수 Variable/(Kimbug SASS) 9. 색상 팔레트.md",
+    "3.Resources/강의/Kimbug_SASS/3. 변수 Variable/(Kimbug SASS) 10. 타이포그래피.md",
+    "3.Resources/강의/Kimbug_SASS/2. Assets/(Kimbug SASS) 7. Reset CSS.md",
+    "3.Resources/강의/Kimbug_SASS/3. 변수 Variable",
+    "3.Resources/강의/Kimbug_SASS/2. Assets/(Kimbug SASS) 6. favicon.md",
+    "3.Resources/강의/Kimbug_SASS/2. Assets/(Kimbug SASS) 5. icon-fonts.md",
+    "3.Resources/강의/Kimbug_SASS/2. Assets/(Kimbug SASS) 4. image export.md",
+    "3.Resources/강의/Kimbug_SASS/2. Assets/(Kimbug SASS) 3. Font.md",
+    "3.Resources/강의/Kimbug_SASS/1. 개발 환경 설정/(Kimbug SASS) 1. 강의 자료.md",
+    "3.Resources/강의/Kimbug_SASS/2. Assets",
+    "3.Resources/강의/Kimbug_SASS/1. 개발 환경 설정",
+    "3.Resources/강의/Kimbug_SASS/3. 변수 Variable/(Kimbug SASS) 8. 변수.md",
     "3.Resources/책/모던 자바스크립트/모던 자바스크립트 DeepDive.md",
     "1.Projects/CSS/node-sass --source-map 옵션.md",
     "Files/Pasted image 20231107041634.png",
     "Files/Pasted image 20231107041549.png",
-    "3.Resources/강의/Kimbug_SASS/(Kimbug SASS) 6. favicon.md",
     "Files/Pasted image 20231107014653.png",
     "3.Resources/강의/Kimbug_SASS/(KimBug SASS).md",
-    "3.Resources/강의/Kimbug_SASS/(Kimbug SASS) 1. 강의 자료.md",
-    "3.Resources/강의/Kimbug_SASS/(Kimbug SASS) 5. icon-fonts.md",
-    "3.Resources/강의/Kimbug_SASS/(Kimbug SASS) 4. image export.md",
-    "3.Resources/강의/Kimbug_SASS/(Kimbug SASS) 3. Font.md",
     "3.Resources/(Git) 리모트-트래킹 브랜치 (Remote-tracking branches).md",
     "2.Areas/stylelint, prettier 설치 및 설정.md",
-    "3.Resources/강의/Kimbug_SASS/(Kimbug SASS) 2. Node 및 node-sass 개발 환경 설정.md",
+    "3.Resources/강의/Kimbug_SASS/1. 개발 환경 설정/(Kimbug SASS) 2. Node 및 node-sass 개발 환경 설정.md",
     "1.Projects/CSS/구글 Network Font를 적용하기.md",
     "1.Projects/CSS/CSS box-sizing 속성.md",
     "1.Projects/CSS/Vector, Raster 이미지.md",
@@ -188,15 +193,10 @@
     "1.Projects/CSS/선택자/CSS 태그, 클래스, 아이디 선택자 (tag, class, id).md",
     "1.Projects/CSS/선택자/CSS 구조적 가상 클래스 선택자.md",
     "1.Projects/CSS/선택자",
-    "3.Resources/강의/Kimbug_SASS/README (작성 후 GitHub으로 이동).md",
-    "3.Resources/강의/Kimbug_SASS/README.md",
     "3.Resources/강의/Kimbug_SASS",
     "2.Areas/기록법/제텔카스텐_슬기로운메모생활",
     "3.Resources/책/모던 자바스크립트",
     "새 텍스트 문서.txt",
-    "3.Resources/강의",
-    "3.Resources/강의/Kimbug_funnyCSS",
-    "1.Projects/CSS",
-    "3.Resources/책"
+    "3.Resources/강의"
   ]
 }
