@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Projects/CSS/node-sass --source-map 옵션.md",
+                "file": "3.Resources/강의/Kimbug_SASS/(Kimbug SASS) 9. 색상 팔레트.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5110321044922
+    "width": 279.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "065d8a4f3451fb00",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Projects/CSS/node-sass --source-map 옵션.md",
+                "file": "3.Resources/강의/Kimbug_SASS/(Kimbug SASS) 9. 색상 팔레트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Projects/CSS/node-sass --source-map 옵션.md",
+                "file": "3.Resources/강의/Kimbug_SASS/(Kimbug SASS) 9. 색상 팔레트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Projects/CSS/node-sass --source-map 옵션.md"
+                "file": "3.Resources/강의/Kimbug_SASS/(Kimbug SASS) 9. 색상 팔레트.md"
               }
             }
           }
@@ -151,10 +152,13 @@
   },
   "active": "4361786c83a2fa32",
   "lastOpenFiles": [
+    "3.Resources/강의/Kimbug_SASS/(Kimbug SASS) 8. 변수.md",
+    "3.Resources/강의/Kimbug_SASS/(Kimbug SASS) 9. 색상 팔레트.md",
+    "3.Resources/강의/Kimbug_SASS/(Kimbug SASS) 7. Reset CSS.md",
+    "3.Resources/책/모던 자바스크립트/모던 자바스크립트 DeepDive.md",
+    "1.Projects/CSS/node-sass --source-map 옵션.md",
     "Files/Pasted image 20231107041634.png",
     "Files/Pasted image 20231107041549.png",
-    "3.Resources/강의/Kimbug_SASS/(Kimbug SASS) 7. Reset CSS.md",
-    "1.Projects/CSS/node-sass --source-map 옵션.md",
     "3.Resources/강의/Kimbug_SASS/(Kimbug SASS) 6. favicon.md",
     "Files/Pasted image 20231107014653.png",
     "3.Resources/강의/Kimbug_SASS/(KimBug SASS).md",
@@ -178,7 +182,6 @@
     "Files/Pasted image 20231105183034.png",
     "Files/Pasted image 20231105182227.png",
     "Files/Pasted image 20231102230532.png",
-    "Files/Pasted image 20231105181157.png",
     "3.Resources/Git.md",
     "1.Projects/CSS/선택자/CSS 동적 가상 클래스 선택자.md",
     "1.Projects/CSS/display",
@@ -187,8 +190,6 @@
     "1.Projects/CSS/선택자",
     "3.Resources/강의/Kimbug_SASS/README (작성 후 GitHub으로 이동).md",
     "3.Resources/강의/Kimbug_SASS/README.md",
-    "3.Resources/강의/Kimbug_funnyCSS/FunnyCSS - Kimbug.md",
-    "2.Areas/기록법/제텔카스텐_슬기로운메모생활/제텔카스텐 - 3부. 성공적인 글쓰기에 이르는 여섯 단계.md",
     "3.Resources/강의/Kimbug_SASS",
     "2.Areas/기록법/제텔카스텐_슬기로운메모생활",
     "3.Resources/책/모던 자바스크립트",
