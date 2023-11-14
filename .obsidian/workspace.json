@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/강의/Kimbug_SASS/3. 변수 Variable/(Kimbug SASS) 10. 타이포그래피.md",
+                "file": "3.Resources/강의/Kimbug_SASS/3. 변수 Variable/(Kimbug SASS) 11. Grid System.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5110321044922
+    "width": 389.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "065d8a4f3451fb00",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resources/강의/Kimbug_SASS/3. 변수 Variable/(Kimbug SASS) 10. 타이포그래피.md",
+                "file": "3.Resources/강의/Kimbug_SASS/3. 변수 Variable/(Kimbug SASS) 11. Grid System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resources/강의/Kimbug_SASS/3. 변수 Variable/(Kimbug SASS) 10. 타이포그래피.md",
+                "file": "3.Resources/강의/Kimbug_SASS/3. 변수 Variable/(Kimbug SASS) 11. Grid System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/강의/Kimbug_SASS/3. 변수 Variable/(Kimbug SASS) 10. 타이포그래피.md"
+                "file": "3.Resources/강의/Kimbug_SASS/3. 변수 Variable/(Kimbug SASS) 11. Grid System.md"
               }
             }
           }
@@ -151,8 +152,14 @@
   },
   "active": "47a0f7c653470bcc",
   "lastOpenFiles": [
-    "3.Resources/강의/Kimbug_SASS/3. 변수 Variable/(Kimbug SASS) 9. 색상 팔레트.md",
+    "Files/Pasted image 20231115010256.png",
+    "Files/Pasted image 20231115005249.png",
+    "Files/Pasted image 20231115004502.png",
+    "Files/Pasted image 20231115004421.png",
+    "Files/Pasted image 20231115004045.png",
     "3.Resources/강의/Kimbug_SASS/3. 변수 Variable/(Kimbug SASS) 10. 타이포그래피.md",
+    "3.Resources/강의/Kimbug_SASS/3. 변수 Variable/(Kimbug SASS) 11. Grid System.md",
+    "3.Resources/강의/Kimbug_SASS/3. 변수 Variable/(Kimbug SASS) 9. 색상 팔레트.md",
     "Files/Pasted image 20231114052542.png",
     "3.Resources/강의/Kimbug_SASS/2. Assets/(Kimbug SASS) 7. Reset CSS.md",
     "3.Resources/강의/Kimbug_SASS/3. 변수 Variable",
@@ -181,15 +188,10 @@
     "1.Projects/자바스크립트/@자바스크립트 요약집 만들어야 함.md",
     "Files/Git_Remote-Tracking_Branch.png",
     "Files/Remote-Tracking_Branch.png",
-    "Files/Git_작업영역 - 복사본.png",
-    "Files/Git_작업영역.png",
-    "Files/Pasted image 20231105183034.png",
-    "Files/Pasted image 20231105182227.png",
     "3.Resources/Git.md",
     "1.Projects/CSS/선택자/CSS 동적 가상 클래스 선택자.md",
     "1.Projects/CSS/display",
     "1.Projects/CSS/선택자/CSS 태그, 클래스, 아이디 선택자 (tag, class, id).md",
-    "1.Projects/CSS/선택자/CSS 구조적 가상 클래스 선택자.md",
     "1.Projects/CSS/선택자",
     "3.Resources/강의/Kimbug_SASS",
     "2.Areas/기록법/제텔카스텐_슬기로운메모생활",
