@@ -3,7 +3,7 @@ created: 2023-11-05
 ---
 키워드:: [[Git]]
 
-> [Git] 리모트-트래킹 브랜치 (Remote-tracking branches)으로 제목 바꾸고 , Remote-tracking branches 중심으로 내용 다시 구성해서 블로그 글 작성해야겠다.
+> Remote-tracking branches 중심으로 내용 다시 구성해서 글 작성해야겠다.
 
 ## Git Local
 
