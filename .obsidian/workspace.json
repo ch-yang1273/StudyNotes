@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1ffc4e577b696bad",
+        "id": "16f3340438c6a1ad",
         "type": "tabs",
         "children": [
           {
-            "id": "47a0f7c653470bcc",
+            "id": "6d1a7cc272b749c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/3-2.강의/김버그_CSS/FunnyCSS - Kimbug.md",
+                "file": "3.Resources/3-2.강의/정수원_SpringBatch/2.스프링 배치 시작/2-2 DB 스키마 생성 및 이해.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5110321044922
+    "width": 389.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "065d8a4f3451fb00",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resources/3-2.강의/김버그_CSS/FunnyCSS - Kimbug.md",
+                "file": "3.Resources/3-2.강의/정수원_SpringBatch/2.스프링 배치 시작/2-2 DB 스키마 생성 및 이해.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resources/3-2.강의/김버그_CSS/FunnyCSS - Kimbug.md",
+                "file": "3.Resources/3-2.강의/정수원_SpringBatch/2.스프링 배치 시작/2-2 DB 스키마 생성 및 이해.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/3-2.강의/김버그_CSS/FunnyCSS - Kimbug.md"
+                "file": "3.Resources/3-2.강의/정수원_SpringBatch/2.스프링 배치 시작/2-2 DB 스키마 생성 및 이해.md"
               }
             }
           }
@@ -149,11 +150,22 @@
       "workspaces:작업 공간 레이아웃 관리": false
     }
   },
-  "active": "a6f314c8c599f3ee",
+  "active": "6d1a7cc272b749c0",
   "lastOpenFiles": [
+    "3.Resources/3-2.강의/정수원_SpringBatch/2.스프링 배치 시작/2-1 프로젝트 구성.md",
+    "3.Resources/3-2.강의/정수원_SpringBatch/2.스프링 배치 시작/2-2 DB 스키마 생성 및 이해.md",
+    "3.Resources/3-2.강의/정수원_SpringBatch/프로젝트 Github 링크.md",
+    "3.Resources/Spring/SpringBatch.md",
+    "Files/batch-table-missing.jpg",
+    "3.Resources/3-2.강의/정수원_SpringBatch/1.스프링 배치 소개/1-1.개요.md",
+    "3.Resources/3-2.강의/정수원_SpringBatch/2.스프링 배치 시작",
+    "Files/Spring-batch-layers.png",
+    "3.Resources/Spring",
+    "3.Resources/3-2.강의/김버그_CSS/FunnyCSS - Kimbug.md",
+    "3.Resources/3-2.강의/정수원_SpringBatch/1.스프링 배치 소개",
+    "1.Projects/무제 파일.md",
     "3.Resources/3-2.강의/정수원_SpringBatch",
     "3.Resources/3-2.강의/강의.md",
-    "3.Resources/3-2.강의/김버그_CSS/FunnyCSS - Kimbug.md",
     "3.Resources/Git/(Git) 리모트-트래킹 브랜치 (Remote-tracking branches).md",
     "3.Resources/Git",
     "3.Resources/Git/Git.md",
@@ -181,21 +193,10 @@
     "3.Resources/CSS/node-sass --source-map 옵션.md",
     "Files/Pasted image 20231107041634.png",
     "Files/Pasted image 20231107041549.png",
-    "Files/Pasted image 20231107014653.png",
     "3.Resources/3-2.강의/김버그_SASS/(KimBug SASS).md",
     "2.Areas/stylelint, prettier 설치 및 설정.md",
     "3.Resources/3-2.강의/김버그_SASS/1. 개발 환경 설정/(Kimbug SASS) 2. Node 및 node-sass 개발 환경 설정.md",
-    "3.Resources/CSS/구글 Network Font를 적용하기.md",
-    "3.Resources/CSS/CSS box-sizing 속성.md",
-    "3.Resources/CSS/Vector, Raster 이미지.md",
-    "3.Resources/JavaScript/자바스크립트.md",
-    "1.Projects/CSS/@CSS 요약집 만들자.md",
-    "Files/Git_Remote-Tracking_Branch.png",
     "3.Resources/CSS/display",
-    "3.Resources/CSS/선택자",
-    "3.Resources/3-2.강의/김버그_SASS",
-    "2.Areas/기록법/제텔카스텐_슬기로운메모생활",
-    "3.Resources/3-1.책/모던 자바스크립트",
-    "새 텍스트 문서.txt"
+    "3.Resources/CSS/선택자"
   ]
 }
