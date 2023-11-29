@@ -3,7 +3,7 @@ created: 2023-11-24
 ---
 키워드:: [[SpringBatch]]
 
-## DB 스키마 생성
+## 메타데이터 DB 스키마 생성
 
 Spring Batch는 스프링 배치의 실행 및 관리를 위한 목적으로 여러 도메인들(Job, Step, JobParameters 등)의 정보를 저장, 업데이트, 조회를 할 수 있는 DB 스키마를 제공한다.
 
@@ -60,3 +60,19 @@ spring:
     jdbc:  
       initialize-schema: always
 ```
+
+## 메타데이터 테이블
+
+### JOB 관련 테이블
+
+- BATCH_JOB_INSTANCE : Job이 실행될 때 JobInstance 정보가 저장
+- BATCH_JOB_EXECUTION : Job 실행 정보
+- BATCH_JOB_EXECUTION_PARAMS : JobParameter 정보
+- BATCH_JOB_EXECUTION_CONTEXT : 실행하는 동안 여러가지 상태 정보, 공유 데이터
+
+### STEP 관련 테이블
+
+- BATCH_STEP_EXECUTION : Step의 실행 정보
+- BATCH_STEP_EXECUTION_CONTEXT : 실행하는 동안 여러가지 상태 정보, 공유 데이터
+
+![[Pasted image 20231128072533.png]]

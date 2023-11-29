@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "16f3340438c6a1ad",
+        "id": "48a8ef750f008a6b",
         "type": "tabs",
         "children": [
           {
-            "id": "6d1a7cc272b749c0",
+            "id": "5b1af6de86d88668",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/3-2.강의/정수원_SpringBatch/2.스프링 배치 시작/2-2 DB 스키마 생성 및 이해.md",
+                "file": "3.Resources/3-2.강의/정수원_SpringBatch/3.스프링 배치 도메인 이해/3-1 JobParameter.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resources/3-2.강의/정수원_SpringBatch/2.스프링 배치 시작/2-2 DB 스키마 생성 및 이해.md",
+                "file": "3.Resources/3-2.강의/정수원_SpringBatch/3.스프링 배치 도메인 이해/3-1 JobParameter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resources/3-2.강의/정수원_SpringBatch/2.스프링 배치 시작/2-2 DB 스키마 생성 및 이해.md",
+                "file": "3.Resources/3-2.강의/정수원_SpringBatch/3.스프링 배치 도메인 이해/3-1 JobParameter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/3-2.강의/정수원_SpringBatch/2.스프링 배치 시작/2-2 DB 스키마 생성 및 이해.md"
+                "file": "3.Resources/3-2.강의/정수원_SpringBatch/3.스프링 배치 도메인 이해/3-1 JobParameter.md"
               }
             }
           }
@@ -150,10 +150,15 @@
       "workspaces:작업 공간 레이아웃 관리": false
     }
   },
-  "active": "6d1a7cc272b749c0",
+  "active": "5b1af6de86d88668",
   "lastOpenFiles": [
+    "Files/SpringBatch_IDE에서_JobParameter전달.png",
+    "3.Resources/3-2.강의/정수원_SpringBatch/3.스프링 배치 도메인 이해/3-1 JobParameter.md",
+    "Files/SpringBatch_Jar실행시_JobParameter전달.png",
+    "3.Resources/3-2.강의/정수원_SpringBatch/2.스프링 배치 시작/2-2 Batch 메타데이터 (DB 스키마).md",
+    "3.Resources/3-2.강의/정수원_SpringBatch/3.스프링 배치 도메인 이해",
+    "Files/Pasted image 20231128072533.png",
     "3.Resources/3-2.강의/정수원_SpringBatch/2.스프링 배치 시작/2-1 프로젝트 구성.md",
-    "3.Resources/3-2.강의/정수원_SpringBatch/2.스프링 배치 시작/2-2 DB 스키마 생성 및 이해.md",
     "3.Resources/3-2.강의/정수원_SpringBatch/프로젝트 Github 링크.md",
     "3.Resources/Spring/SpringBatch.md",
     "Files/batch-table-missing.jpg",
@@ -178,7 +183,6 @@
     "Files/Pasted image 20231115004045.png",
     "3.Resources/3-2.강의/김버그_SASS/3. 변수 Variable/(Kimbug SASS) 10. 타이포그래피.md",
     "3.Resources/3-2.강의/김버그_SASS/3. 변수 Variable/(Kimbug SASS) 9. 색상 팔레트.md",
-    "Files/Pasted image 20231114052542.png",
     "3.Resources/3-2.강의/김버그_SASS/2. Assets/(Kimbug SASS) 7. Reset CSS.md",
     "3.Resources/3-2.강의/김버그_SASS/3. 변수 Variable",
     "3.Resources/3-2.강의/김버그_SASS/2. Assets/(Kimbug SASS) 6. favicon.md",
@@ -191,12 +195,7 @@
     "3.Resources/3-2.강의/김버그_SASS/3. 변수 Variable/(Kimbug SASS) 8. 변수.md",
     "3.Resources/3-1.책/모던 자바스크립트/모던 자바스크립트 DeepDive.md",
     "3.Resources/CSS/node-sass --source-map 옵션.md",
-    "Files/Pasted image 20231107041634.png",
-    "Files/Pasted image 20231107041549.png",
     "3.Resources/3-2.강의/김버그_SASS/(KimBug SASS).md",
-    "2.Areas/stylelint, prettier 설치 및 설정.md",
-    "3.Resources/3-2.강의/김버그_SASS/1. 개발 환경 설정/(Kimbug SASS) 2. Node 및 node-sass 개발 환경 설정.md",
-    "3.Resources/CSS/display",
-    "3.Resources/CSS/선택자"
+    "3.Resources/CSS/display"
   ]
 }

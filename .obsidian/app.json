@@ -2,7 +2,7 @@
   "defaultViewMode": "preview",
   "livePreview": false,
   "showLineNumber": true,
-  "strictLineBreaks": false,
+  "strictLineBreaks": true,
   "trashOption": "local",
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
