@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/3-2.강의/정수원_SpringBatch/3.스프링 배치 도메인 이해/3-1 JobParameter.md",
+                "file": "3.Resources/React/Reactjs Code Snippets (VS Code 툴).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5110321044922,
-    "collapsed": true
+    "width": 389.5110321044922
   },
   "right": {
     "id": "065d8a4f3451fb00",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resources/3-2.강의/정수원_SpringBatch/3.스프링 배치 도메인 이해/3-1 JobParameter.md",
+                "file": "3.Resources/React/Reactjs Code Snippets (VS Code 툴).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resources/3-2.강의/정수원_SpringBatch/3.스프링 배치 도메인 이해/3-1 JobParameter.md",
+                "file": "3.Resources/React/Reactjs Code Snippets (VS Code 툴).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/3-2.강의/정수원_SpringBatch/3.스프링 배치 도메인 이해/3-1 JobParameter.md"
+                "file": "3.Resources/React/Reactjs Code Snippets (VS Code 툴).md"
               }
             }
           }
@@ -152,15 +151,23 @@
   },
   "active": "5b1af6de86d88668",
   "lastOpenFiles": [
-    "Files/SpringBatch_IDE에서_JobParameter전달.png",
+    "3.Resources/3-1.책/리액트를 다루는 기술/1. 리액트 시작.md",
+    "3.Resources/React/Reactjs Code Snippets (VS Code 툴).md",
+    "3.Resources/3-1.책/리액트를 다루는 기술",
+    "3.Resources/React/React 공부 소스 (책, 강의).md",
+    "3.Resources/React/React.md",
+    "3.Resources/JavaScript/자바스크립트.md",
+    "3.Resources/Spring/SpringBatch.md",
+    "3.Resources/CSS/stylelint, prettier 설치 및 설정.md",
+    "3.Resources/React",
     "3.Resources/3-2.강의/정수원_SpringBatch/3.스프링 배치 도메인 이해/3-1 JobParameter.md",
+    "Files/SpringBatch_IDE에서_JobParameter전달.png",
     "Files/SpringBatch_Jar실행시_JobParameter전달.png",
     "3.Resources/3-2.강의/정수원_SpringBatch/2.스프링 배치 시작/2-2 Batch 메타데이터 (DB 스키마).md",
     "3.Resources/3-2.강의/정수원_SpringBatch/3.스프링 배치 도메인 이해",
     "Files/Pasted image 20231128072533.png",
     "3.Resources/3-2.강의/정수원_SpringBatch/2.스프링 배치 시작/2-1 프로젝트 구성.md",
     "3.Resources/3-2.강의/정수원_SpringBatch/프로젝트 Github 링크.md",
-    "3.Resources/Spring/SpringBatch.md",
     "Files/batch-table-missing.jpg",
     "3.Resources/3-2.강의/정수원_SpringBatch/1.스프링 배치 소개/1-1.개요.md",
     "3.Resources/3-2.강의/정수원_SpringBatch/2.스프링 배치 시작",
@@ -189,13 +196,6 @@
     "3.Resources/3-2.강의/김버그_SASS/2. Assets/(Kimbug SASS) 5. icon-fonts.md",
     "3.Resources/3-2.강의/김버그_SASS/2. Assets/(Kimbug SASS) 4. image export.md",
     "3.Resources/3-2.강의/김버그_SASS/2. Assets/(Kimbug SASS) 3. Font.md",
-    "3.Resources/3-2.강의/김버그_SASS/1. 개발 환경 설정/(Kimbug SASS) 1. 강의 자료.md",
-    "3.Resources/3-2.강의/김버그_SASS/2. Assets",
-    "3.Resources/3-2.강의/김버그_SASS/1. 개발 환경 설정",
-    "3.Resources/3-2.강의/김버그_SASS/3. 변수 Variable/(Kimbug SASS) 8. 변수.md",
-    "3.Resources/3-1.책/모던 자바스크립트/모던 자바스크립트 DeepDive.md",
-    "3.Resources/CSS/node-sass --source-map 옵션.md",
-    "3.Resources/3-2.강의/김버그_SASS/(KimBug SASS).md",
-    "3.Resources/CSS/display"
+    "3.Resources/3-2.강의/김버그_SASS/2. Assets"
   ]
 }
