@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/3-1.책/리액트를 다루는 기술/5. ref - DOM에 이름 달기.md",
-                "mode": "source",
+                "file": "3.Resources/3-2.강의/정수원_SpringBatch/프로젝트 Github 링크.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resources/3-1.책/리액트를 다루는 기술/5. ref - DOM에 이름 달기.md",
+                "file": "3.Resources/3-2.강의/정수원_SpringBatch/프로젝트 Github 링크.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resources/3-1.책/리액트를 다루는 기술/5. ref - DOM에 이름 달기.md",
+                "file": "3.Resources/3-2.강의/정수원_SpringBatch/프로젝트 Github 링크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/3-1.책/리액트를 다루는 기술/5. ref - DOM에 이름 달기.md"
+                "file": "3.Resources/3-2.강의/정수원_SpringBatch/프로젝트 Github 링크.md"
               }
             }
           }
@@ -151,46 +151,46 @@
   },
   "active": "a8f1e64e22007b94",
   "lastOpenFiles": [
-    "3.Resources/3-1.책/리액트를 다루는 기술/4. 이벤트 핸들링.md",
-    "3.Resources/3-1.책/리액트를 다루는 기술/5. ref - DOM에 이름 달기.md",
-    "3.Resources/3-1.책/리액트를 다루는 기술/3. 컴포넌트 (props, state).md",
-    "3.Resources/JavaScript/자바스크립트에서의 this.md",
-    "3.Resources/3-1.책/리액트를 다루는 기술/2. JSX.md",
-    "3.Resources/3-1.책/리액트를 다루는 기술/1. 리액트 시작.md",
-    "3.Resources/JavaScript/구조 분해 할당, 비구조화 할당 (Destructuring assignment).md",
-    "3.Resources/JavaScript/자바스크립트.md",
-    "3.Resources/React/React 프로젝트 생성.md",
-    "Files/ReactDevServerStartPage.png",
-    "3.Resources/React/React 공부 소스 (책, 강의).md",
-    "3.Resources/React/Reactjs Code Snippets (VS Code 툴).md",
-    "3.Resources/3-1.책/리액트를 다루는 기술",
-    "3.Resources/React/React.md",
-    "3.Resources/Spring/SpringBatch.md",
-    "3.Resources/CSS/stylelint, prettier 설치 및 설정.md",
-    "3.Resources/React",
     "3.Resources/3-2.강의/정수원_SpringBatch/3.스프링 배치 도메인 이해/3-1 JobParameter.md",
+    "3.Resources/3-2.강의/정수원_SpringBatch/2.스프링 배치 시작/2-2 Batch 메타데이터 (DB 스키마).md",
+    "3.Resources/3-2.강의/정수원_SpringBatch/2.스프링 배치 시작/2-1 프로젝트 구성.md",
+    "3.Resources/3-2.강의/정수원_SpringBatch/1.스프링 배치 소개/1-1.개요.md",
+    "3.Resources/3-2.강의/김버그_SASS/(KimBug SASS).md",
+    "3.Resources/3-2.강의/김버그_SASS/3. 변수 Variable/(Kimbug SASS) 11. Grid System.md",
+    "3.Resources/3-2.강의/김버그_SASS/3. 변수 Variable/(Kimbug SASS) 10. 타이포그래피.md",
+    "3.Resources/3-2.강의/김버그_SASS/3. 변수 Variable/(Kimbug SASS) 9. 색상 팔레트.md",
+    "3.Resources/3-2.강의/김버그_SASS/3. 변수 Variable/(Kimbug SASS) 8. 변수.md",
+    "3.Resources/3-2.강의/김버그_SASS/2. Assets/(Kimbug SASS) 7. Reset CSS.md",
+    "3.Resources/3-2.강의/김버그_SASS/2. Assets/(Kimbug SASS) 6. favicon.md",
+    "3.Resources/3-2.강의/김버그_SASS/2. Assets/(Kimbug SASS) 5. icon-fonts.md",
+    "3.Resources/3-2.강의/김버그_SASS/2. Assets/(Kimbug SASS) 4. image export.md",
+    "3.Resources/3-2.강의/김버그_SASS/2. Assets/(Kimbug SASS) 3. Font.md",
+    "3.Resources/3-2.강의/김버그_SASS/1. 개발 환경 설정/(Kimbug SASS) 2. Node 및 node-sass 개발 환경 설정.md",
+    "3.Resources/3-2.강의/김버그_SASS/1. 개발 환경 설정/(Kimbug SASS) 1. 강의 자료.md",
+    "3.Resources/3-2.강의/김버그_CSS/FunnyCSS_6.Flex.md",
+    "3.Resources/3-2.강의/김버그_CSS/FunnyCSS_5.Position.md",
+    "3.Resources/3-2.강의/김버그_CSS/FunnyCSS_4.Float.md",
+    "3.Resources/3-2.강의/김버그_CSS/FunnyCSS_3.Box.md",
+    "3.Resources/3-2.강의/김버그_CSS/FunnyCSS_2.Selectors (선택자).md",
+    "3.Resources/3-2.강의/김버그_CSS/FunnyCSS_1.강의를 듣는 방법.md",
+    "3.Resources/3-2.강의/김버그_CSS/FunnyCSS - Kimbug.md",
+    "3.Resources/JavaScript/- 클로저의 이해 (실행컨텍스트, 스코프체인).md",
+    "3.Resources/JavaScript/- JS 어떤 방식의 함수 선언이 권장되나 (함수 선언식, 함수 표현식).md",
+    "3.Resources/Spring/SpringBatch.md",
+    "Files/ReactDevServerStartPage.png",
+    "3.Resources/3-1.책/리액트를 다루는 기술",
+    "3.Resources/React",
     "Files/SpringBatch_IDE에서_JobParameter전달.png",
     "Files/SpringBatch_Jar실행시_JobParameter전달.png",
-    "3.Resources/3-2.강의/정수원_SpringBatch/2.스프링 배치 시작/2-2 Batch 메타데이터 (DB 스키마).md",
     "3.Resources/3-2.강의/정수원_SpringBatch/3.스프링 배치 도메인 이해",
     "Files/Pasted image 20231128072533.png",
-    "3.Resources/3-2.강의/정수원_SpringBatch/2.스프링 배치 시작/2-1 프로젝트 구성.md",
-    "3.Resources/3-2.강의/정수원_SpringBatch/프로젝트 Github 링크.md",
     "Files/batch-table-missing.jpg",
-    "3.Resources/3-2.강의/정수원_SpringBatch/1.스프링 배치 소개/1-1.개요.md",
     "3.Resources/3-2.강의/정수원_SpringBatch/2.스프링 배치 시작",
     "Files/Spring-batch-layers.png",
     "3.Resources/Spring",
-    "3.Resources/3-2.강의/김버그_CSS/FunnyCSS - Kimbug.md",
     "3.Resources/3-2.강의/정수원_SpringBatch/1.스프링 배치 소개",
-    "1.Projects/무제 파일.md",
     "3.Resources/3-2.강의/정수원_SpringBatch",
-    "3.Resources/3-2.강의/강의.md",
-    "3.Resources/Git/(Git) 리모트-트래킹 브랜치 (Remote-tracking branches).md",
     "3.Resources/Git",
-    "3.Resources/Git/Git.md",
-    "Inbox/콜백 헬.md",
-    "3.Resources/3-2.강의/김버그_SASS/3. 변수 Variable/(Kimbug SASS) 11. Grid System.md",
     "Files/Pasted image 20231115010256.png",
     "Files/Pasted image 20231115005249.png",
     "Files/Pasted image 20231115004502.png",
