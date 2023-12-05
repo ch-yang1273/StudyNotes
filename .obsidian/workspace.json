@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/3-1.책/리액트를 다루는 기술/7. 컴포넌트의 라이프사이클 메서드.md",
-                "mode": "source",
+                "file": "3.Resources/3-1.책/리액트를 다루는 기술/6. 컴포넌트 반복.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 235.5,
+    "collapsed": true
   },
   "right": {
     "id": "065d8a4f3451fb00",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resources/3-1.책/리액트를 다루는 기술/7. 컴포넌트의 라이프사이클 메서드.md",
+                "file": "3.Resources/3-1.책/리액트를 다루는 기술/6. 컴포넌트 반복.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resources/3-1.책/리액트를 다루는 기술/7. 컴포넌트의 라이프사이클 메서드.md",
+                "file": "3.Resources/3-1.책/리액트를 다루는 기술/6. 컴포넌트 반복.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/3-1.책/리액트를 다루는 기술/7. 컴포넌트의 라이프사이클 메서드.md"
+                "file": "3.Resources/3-1.책/리액트를 다루는 기술/6. 컴포넌트 반복.md"
               }
             }
           }
@@ -151,8 +152,8 @@
   },
   "active": "a8f1e64e22007b94",
   "lastOpenFiles": [
-    "3.Resources/3-1.책/리액트를 다루는 기술/6. 컴포넌트 반복.md",
     "3.Resources/3-1.책/리액트를 다루는 기술/7. 컴포넌트의 라이프사이클 메서드.md",
+    "3.Resources/3-1.책/리액트를 다루는 기술/6. 컴포넌트 반복.md",
     "3.Resources/3-1.책/리액트를 다루는 기술/3. 컴포넌트 (props, state).md",
     "3.Resources/3-2.강의/정수원_SpringBatch/프로젝트 Github 링크.md",
     "3.Resources/3-2.강의/정수원_SpringBatch/3.스프링 배치 도메인 이해/3-1 JobParameter.md",
