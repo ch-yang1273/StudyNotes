@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/3-1.책/리액트를 다루는 기술/6. 컴포넌트 반복.md",
-                "mode": "preview",
+                "file": "3.Resources/3-1.책/리액트를 다루는 기술/10. 일정 관리 웹 애플리케이션 만들기.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5,
-    "collapsed": true
+    "width": 235.5
   },
   "right": {
     "id": "065d8a4f3451fb00",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resources/3-1.책/리액트를 다루는 기술/6. 컴포넌트 반복.md",
+                "file": "3.Resources/3-1.책/리액트를 다루는 기술/10. 일정 관리 웹 애플리케이션 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resources/3-1.책/리액트를 다루는 기술/6. 컴포넌트 반복.md",
+                "file": "3.Resources/3-1.책/리액트를 다루는 기술/10. 일정 관리 웹 애플리케이션 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/3-1.책/리액트를 다루는 기술/6. 컴포넌트 반복.md"
+                "file": "3.Resources/3-1.책/리액트를 다루는 기술/10. 일정 관리 웹 애플리케이션 만들기.md"
               }
             }
           }
@@ -152,8 +151,18 @@
   },
   "active": "a8f1e64e22007b94",
   "lastOpenFiles": [
+    "3.Resources/CSS/SASS/Node-sass vs. Dart sass.md",
+    "3.Resources/3-2.강의/김버그_SASS/1. 개발 환경 설정/(Kimbug SASS) 2. Node 및 node-sass 개발 환경 설정.md",
+    "3.Resources/CSS/SASS",
+    "3.Resources/3-2.강의/김버그_SASS/1. 개발 환경 설정/(Kimbug SASS) 1. 강의 자료.md",
+    "3.Resources/CSS/node-sass --source-map 옵션.md",
+    "3.Resources/3-1.책/리액트를 다루는 기술/10. 일정 관리 웹 애플리케이션 만들기.md",
+    "3.Resources/React/React 프로젝트 생성.md",
+    "3.Resources/3-1.책/리액트를 다루는 기술/1. 리액트 시작.md",
+    "3.Resources/React/React 공부 소스 (책, 강의).md",
     "3.Resources/3-1.책/리액트를 다루는 기술/7. 컴포넌트의 라이프사이클 메서드.md",
     "3.Resources/3-1.책/리액트를 다루는 기술/6. 컴포넌트 반복.md",
+    "3.Resources/3-1.책/리액트를 다루는 기술/6. 컴포넌트 반복 (Key, Map).md",
     "3.Resources/3-1.책/리액트를 다루는 기술/3. 컴포넌트 (props, state).md",
     "3.Resources/3-2.강의/정수원_SpringBatch/프로젝트 Github 링크.md",
     "3.Resources/3-2.강의/정수원_SpringBatch/3.스프링 배치 도메인 이해/3-1 JobParameter.md",
@@ -169,15 +178,6 @@
     "3.Resources/3-2.강의/김버그_SASS/2. Assets/(Kimbug SASS) 6. favicon.md",
     "3.Resources/3-2.강의/김버그_SASS/2. Assets/(Kimbug SASS) 5. icon-fonts.md",
     "3.Resources/3-2.강의/김버그_SASS/2. Assets/(Kimbug SASS) 4. image export.md",
-    "3.Resources/3-2.강의/김버그_SASS/2. Assets/(Kimbug SASS) 3. Font.md",
-    "3.Resources/3-2.강의/김버그_SASS/1. 개발 환경 설정/(Kimbug SASS) 2. Node 및 node-sass 개발 환경 설정.md",
-    "3.Resources/3-2.강의/김버그_SASS/1. 개발 환경 설정/(Kimbug SASS) 1. 강의 자료.md",
-    "3.Resources/3-2.강의/김버그_CSS/FunnyCSS_6.Flex.md",
-    "3.Resources/3-2.강의/김버그_CSS/FunnyCSS_5.Position.md",
-    "3.Resources/3-2.강의/김버그_CSS/FunnyCSS_4.Float.md",
-    "3.Resources/3-2.강의/김버그_CSS/FunnyCSS_3.Box.md",
-    "3.Resources/3-2.강의/김버그_CSS/FunnyCSS_2.Selectors (선택자).md",
-    "3.Resources/3-2.강의/김버그_CSS/FunnyCSS_1.강의를 듣는 방법.md",
     "Files/ReactDevServerStartPage.png",
     "3.Resources/3-1.책/리액트를 다루는 기술",
     "3.Resources/React",
@@ -196,7 +196,6 @@
     "Files/Pasted image 20231115005249.png",
     "Files/Pasted image 20231115004502.png",
     "Files/Pasted image 20231115004421.png",
-    "3.Resources/3-2.강의/김버그_SASS/3. 변수 Variable",
-    "3.Resources/3-2.강의/김버그_SASS/2. Assets"
+    "3.Resources/3-2.강의/김버그_SASS/3. 변수 Variable"
   ]
 }
