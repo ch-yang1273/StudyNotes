@@ -3,7 +3,7 @@ created: 2023-10-31
 ---
 키워드:: [[자바스크립트]] [[CSS]]
 
-# node-sass 내용 Prettier 내용 stylelint 내용 너무 섞였다.
+> node-sass 내용 Prettier 내용 stylelint 내용 너무 섞였다.
 
 ## stylelint
 

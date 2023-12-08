@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/3-1.책/리액트를 다루는 기술/10. 일정 관리 웹 애플리케이션 만들기.md",
+                "file": "3.Resources/CSS/stylelint, prettier 설치 및 설정.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 315.5
   },
   "right": {
     "id": "065d8a4f3451fb00",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resources/3-1.책/리액트를 다루는 기술/10. 일정 관리 웹 애플리케이션 만들기.md",
+                "file": "3.Resources/CSS/stylelint, prettier 설치 및 설정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resources/3-1.책/리액트를 다루는 기술/10. 일정 관리 웹 애플리케이션 만들기.md",
+                "file": "3.Resources/CSS/stylelint, prettier 설치 및 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/3-1.책/리액트를 다루는 기술/10. 일정 관리 웹 애플리케이션 만들기.md"
+                "file": "3.Resources/CSS/stylelint, prettier 설치 및 설정.md"
               }
             }
           }
@@ -149,14 +149,19 @@
       "workspaces:작업 공간 레이아웃 관리": false
     }
   },
-  "active": "a8f1e64e22007b94",
+  "active": "a6f314c8c599f3ee",
   "lastOpenFiles": [
+    "3.Resources/CSS/SASS/node-sass --source-map 옵션.md",
+    "3.Resources/CSS/CSS box-sizing 속성.md",
+    "3.Resources/CSS/CSS.md",
+    "3.Resources/CSS/구글 Network Font를 적용하기.md",
+    "3.Resources/Git/(Git) 리모트-트래킹 브랜치 (Remote-tracking branches).md",
+    "3.Resources/Git/Git.md",
+    "3.Resources/3-1.책/리액트를 다루는 기술/10. 일정 관리 웹 애플리케이션 만들기.md",
     "3.Resources/CSS/SASS/Node-sass vs. Dart sass.md",
     "3.Resources/3-2.강의/김버그_SASS/1. 개발 환경 설정/(Kimbug SASS) 2. Node 및 node-sass 개발 환경 설정.md",
     "3.Resources/CSS/SASS",
     "3.Resources/3-2.강의/김버그_SASS/1. 개발 환경 설정/(Kimbug SASS) 1. 강의 자료.md",
-    "3.Resources/CSS/node-sass --source-map 옵션.md",
-    "3.Resources/3-1.책/리액트를 다루는 기술/10. 일정 관리 웹 애플리케이션 만들기.md",
     "3.Resources/React/React 프로젝트 생성.md",
     "3.Resources/3-1.책/리액트를 다루는 기술/1. 리액트 시작.md",
     "3.Resources/React/React 공부 소스 (책, 강의).md",
@@ -173,11 +178,6 @@
     "3.Resources/3-2.강의/김버그_SASS/3. 변수 Variable/(Kimbug SASS) 11. Grid System.md",
     "3.Resources/3-2.강의/김버그_SASS/3. 변수 Variable/(Kimbug SASS) 10. 타이포그래피.md",
     "3.Resources/3-2.강의/김버그_SASS/3. 변수 Variable/(Kimbug SASS) 9. 색상 팔레트.md",
-    "3.Resources/3-2.강의/김버그_SASS/3. 변수 Variable/(Kimbug SASS) 8. 변수.md",
-    "3.Resources/3-2.강의/김버그_SASS/2. Assets/(Kimbug SASS) 7. Reset CSS.md",
-    "3.Resources/3-2.강의/김버그_SASS/2. Assets/(Kimbug SASS) 6. favicon.md",
-    "3.Resources/3-2.강의/김버그_SASS/2. Assets/(Kimbug SASS) 5. icon-fonts.md",
-    "3.Resources/3-2.강의/김버그_SASS/2. Assets/(Kimbug SASS) 4. image export.md",
     "Files/ReactDevServerStartPage.png",
     "3.Resources/3-1.책/리액트를 다루는 기술",
     "3.Resources/React",
