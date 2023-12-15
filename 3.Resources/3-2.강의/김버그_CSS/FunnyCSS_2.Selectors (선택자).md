@@ -9,7 +9,7 @@ created: 2023-10-08
 
 ## 자식, 자손, 형제 선택자
 
-![[CSS 자식, 자손, 형제 선택자 (Child, Descendant, Sibling Combinators)]]
+![[CSS 결합자 - 자식, 자손, 형제 선택자 (Child, Descendant, Sibling Combinators)]]
 
 ## 구조적 가상 클래스 선택자
 

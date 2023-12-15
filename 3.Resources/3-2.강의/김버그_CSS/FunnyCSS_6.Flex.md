@@ -62,9 +62,10 @@ flex-start, flex-end, center, space-between, space-around, space-evenly
 
 ### align-items
 
-flex-start, flex-end, center, ~~space-between~~, ~~space-around~~, ~~space-evenly~~
+wrap이 적용 되어 새로운 줄이 생겼을 때, **각 줄 마다 정렬 라인 기준**이 생겨 cross-axis 요소 간의 간격 설정은 적용되지 않는다.
 
-- wrap이 적용 되어 새로운 줄이 생겼을 때, **각 줄 마다 정렬 라인 기준**이 생겨 cross-axis 요소 간의 간격 설정은 적용되지 않는다.
+- 지원 : flex-start, flex-end, center
+- 미지원 : ~~space-between~~, ~~space-around~~, ~~space-evenly~~
 
 ![[imageFrom김버그CSS_alignItems.png|200]]
 
