@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e00a0ba2853c01a5",
+        "id": "d3c287bb69a4bea4",
         "type": "tabs",
         "children": [
           {
-            "id": "a8f1e64e22007b94",
+            "id": "44b6e5de441ab7d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/CSS/HTML, CSS Emmet.md",
+                "file": "3.Resources/3-1.책/CSS 설계 실전 가이드/1. CSS의 역사와 문제점.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
-    "collapsed": true
+    "width": 315.5
   },
   "right": {
     "id": "065d8a4f3451fb00",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resources/CSS/HTML, CSS Emmet.md",
+                "file": "3.Resources/3-1.책/CSS 설계 실전 가이드/1. CSS의 역사와 문제점.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resources/CSS/HTML, CSS Emmet.md",
+                "file": "3.Resources/3-1.책/CSS 설계 실전 가이드/1. CSS의 역사와 문제점.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/CSS/HTML, CSS Emmet.md"
+                "file": "3.Resources/3-1.책/CSS 설계 실전 가이드/1. CSS의 역사와 문제점.md"
               }
             }
           }
@@ -150,15 +149,18 @@
       "workspaces:작업 공간 레이아웃 관리": false
     }
   },
-  "active": "a8f1e64e22007b94",
+  "active": "44b6e5de441ab7d0",
   "lastOpenFiles": [
+    "3.Resources/3-1.책/리액트를 다루는 기술/1. 리액트 시작.md",
+    "3.Resources/3-1.책/CSS 설계 실전 가이드/1. CSS의 역사와 문제점.md",
+    "3.Resources/3-1.책/CSS 설계 실전 가이드",
+    "3.Resources/CSS/HTML, CSS Emmet.md",
     "3.Resources/DevTool/VSCode 단축키.md",
     "3.Resources/DevTool/IntelliJ  단축키.md",
     "3.Resources/DevTool/VSCode.md",
     "3.Resources/DevTool/IntelliJ.md",
     "README.md",
     "3.Resources/DevTool",
-    "3.Resources/CSS/HTML, CSS Emmet.md",
     "3.Resources/CSS/stylelint, prettier 설치 및 설정.md",
     "3.Resources/CSS/CSS box-sizing 속성.md",
     "Inbox/HTML.md",
@@ -177,8 +179,6 @@
     "3.Resources/Git/(Git) 리모트-트래킹 브랜치 (Remote-tracking branches).md",
     "3.Resources/Git/Git.md",
     "3.Resources/3-1.책/리액트를 다루는 기술/10. 일정 관리 웹 애플리케이션 만들기.md",
-    "3.Resources/CSS/SASS/Node-sass vs. Dart sass.md",
-    "3.Resources/3-2.강의/김버그_SASS/1. 개발 환경 설정/(Kimbug SASS) 2. Node 및 node-sass 개발 환경 설정.md",
     "3.Resources/CSS/SASS",
     "Files/ReactDevServerStartPage.png",
     "3.Resources/3-1.책/리액트를 다루는 기술",
@@ -193,7 +193,6 @@
     "3.Resources/Spring",
     "3.Resources/3-2.강의/정수원_SpringBatch/1.스프링 배치 소개",
     "3.Resources/3-2.강의/정수원_SpringBatch",
-    "3.Resources/Git",
     "Files/Pasted image 20231115010256.png",
     "Files/Pasted image 20231115005249.png",
     "Files/Pasted image 20231115004502.png",
