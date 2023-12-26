@@ -3,14 +3,15 @@ created: 2023-10-08
 ---
 키워드:: [[FunnyCSS - Kimbug]]
 
-## Box Model
+# Box Model
 
 ![[20231010_CSS_Box_Model.png]]
 
 ### Box Size 속기형
 
-- 기본 순서로는 시계방향을 생각하면 된다.
-- Top-Bottom, Left-Right 는 세트이다. 하나가 설정되지 않았으면 세트를 따라간다.
+- 기본은 Top 부터 시작하는 시계 방향이다.
+- Top-Bottom, Left-Right 는 세트이다.
+    - 지정되지 않은 속성은 세트를 따라간다.
 
 ```css
 // 전체 1px
@@ -35,3 +36,11 @@ padding: 1px 3px 2px;
 ### display: block;
 
 ![[CSS display-block]]
+
+### display: inline
+
+![[CSS display-inline]]
+
+### display: inline-block
+
+![[CSS display-inline-block]]

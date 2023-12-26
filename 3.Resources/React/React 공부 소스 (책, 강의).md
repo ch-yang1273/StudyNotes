@@ -14,6 +14,7 @@ created: 2023-12-02
 
 코딩앙마님 유튜브 무료 강의 있다. 평도 좋은 것 같다.
 - [React js 강좌 - 코딩앙마](https://www.youtube.com/playlist?list=PLZKTXPmaJk8J_fHAzPLH8CJ_HO_M33e7-)
+- https://heeeming.tistory.com/entry/%EC%B7%A8%EC%97%85%ED%9B%84%EA%B8%B0-%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90-%EC%9B%B9%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%85%94-%EB%8F%85%ED%95%99%EC%9C%BC%EB%A1%9C-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%A4%80%EB%B9%84-1%ED%8E%B8-%EA%B0%95%EC%9D%98-%EC%B6%94%EC%B2%9C
 
 ## 문서
 

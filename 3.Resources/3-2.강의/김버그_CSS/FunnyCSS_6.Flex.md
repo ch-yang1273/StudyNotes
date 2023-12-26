@@ -3,14 +3,14 @@ created: 2023-10-24
 ---
 키워드:: [[FunnyCSS - Kimbug]]
 
-## Flex box 적용 순서
+# Flex box 적용 순서
 
 1. Flex box 설정
-2. 가로 정렬이야? 세로 정렬이야?
+2. 가로 정렬이야? 세로 정렬이야? **(axis)**
 3. 무조건 한 줄에 정렬?
 4. flex box 정렬
 
-@ flex box에서 **order**를 사용하면, 마크업 순서에 상관없이 순서를 할당할 수 있다.
+@flex box에서 **order**를 사용하면, 마크업 순서에 상관없이 순서를 할당할 수 있다.
 
 ## 1. Flex Box 설정
 
@@ -26,7 +26,7 @@ display: flex;
 
 ## 2. flex-direction
 
-row, row-reverse, column, column-reverse
+row(default), row-reverse, column, column-reverse
 
 ### flex-direction 설정에 따른 Axis (축)
 
@@ -34,12 +34,9 @@ row, row-reverse, column, column-reverse
 - **cross axis**: flex-direction 방향에 수직으로 생기는 축
 
 ```css
-/* Example */
+/*  main axis = 가로 방향 */
+/* cross axis = 세로 방향 */
 flex-direction: row;
-/**
- * main axis = 가로 방향
- * cross axis = 세로 방향
- */
 ```
 
 ## 3. flex-wrap
@@ -49,27 +46,28 @@ flex-direction: row;
 
 ## 4. 정렬
 
-float는 left 아니면 right인데, flex는 선택지가 많다.
+### main axis 기준 정렬
 
-- main axis 기준 정렬: **justify-content**
-- cross axis 기준 정렬: **align-items**, **align-content**
-
-cross axis 기준 정렬은 두 가지가 있는데 기본적으로 `align-items` 쓰고 문제가 있을 때 `align-content`를 쓰면 된다.
-
-### justify-content
+#### justify-content
 
 flex-start, flex-end, center, space-between, space-around, space-evenly
 
-### align-items
+- `justify-content`는 Flex나 Grid에서 사용하고 block, inline에서는 효과가 없다.
 
-wrap이 적용 되어 새로운 줄이 생겼을 때, **각 줄 마다 정렬 라인 기준**이 생겨 cross-axis 요소 간의 간격 설정은 적용되지 않는다.
+### cross axis 기준 정렬
+
+기본적으로 `align-items` 쓰고 문제가 있을 때 `align-content`를 쓰면 된다.
+
+#### align-items
+
+wrap이 적용 되어 새로운 줄이 생겼을 때는, **각 줄 마다 정렬 라인 기준**이 생겨 cross-axis 요소 간의 간격 설정은 적용되지 않는다.
 
 - 지원 : flex-start, flex-end, center
 - 미지원 : ~~space-between~~, ~~space-around~~, ~~space-evenly~~
 
 ![[imageFrom김버그CSS_alignItems.png|200]]
 
-### align-content
+#### align-content
 
 flex-start, flex-end, center, space-between, space-around, space-evenly
 

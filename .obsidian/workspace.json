@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/3-1.책/CSS 설계 실전 가이드/1. CSS의 역사와 문제점.md",
+                "file": "3.Resources/3-2.강의/김버그_CSS/FunnyCSS_7.Media Query.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 315.5,
+    "collapsed": true
   },
   "right": {
     "id": "065d8a4f3451fb00",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resources/3-1.책/CSS 설계 실전 가이드/1. CSS의 역사와 문제점.md",
+                "file": "3.Resources/3-2.강의/김버그_CSS/FunnyCSS_7.Media Query.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resources/3-1.책/CSS 설계 실전 가이드/1. CSS의 역사와 문제점.md",
+                "file": "3.Resources/3-2.강의/김버그_CSS/FunnyCSS_7.Media Query.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/3-1.책/CSS 설계 실전 가이드/1. CSS의 역사와 문제점.md"
+                "file": "3.Resources/3-2.강의/김버그_CSS/FunnyCSS_7.Media Query.md"
               }
             }
           }
@@ -151,34 +152,34 @@
   },
   "active": "44b6e5de441ab7d0",
   "lastOpenFiles": [
-    "3.Resources/3-1.책/리액트를 다루는 기술/1. 리액트 시작.md",
+    "3.Resources/3-2.강의/김버그_CSS/FunnyCSS_1.강의를 듣는 방법.md",
+    "3.Resources/3-2.강의/김버그_CSS/FunnyCSS_2.Selectors (선택자).md",
+    "3.Resources/3-2.강의/김버그_CSS/FunnyCSS_3.Box.md",
+    "3.Resources/3-2.강의/김버그_CSS/FunnyCSS_4.Float.md",
+    "3.Resources/3-2.강의/김버그_CSS/FunnyCSS_5.Position.md",
+    "3.Resources/3-2.강의/김버그_CSS/FunnyCSS_6.Flex.md",
+    "3.Resources/3-2.강의/김버그_CSS/FunnyCSS_7.Media Query.md",
+    "3.Resources/3-2.강의/김버그_CSS/FunnyCSS - Kimbug.md",
+    "3.Resources/CSS/CSS box-sizing 속성.md",
+    "3.Resources/CSS/display/CSS display-block.md",
+    "3.Resources/CSS/display/CSS display-inline.md",
+    "3.Resources/CSS/display/CSS display-inline-block.md",
+    "3.Resources/3-2.강의/김버그_SASS/2. Assets/(Kimbug SASS) 7. Reset CSS.md",
+    "3.Resources/3-2.강의/김버그_SASS/2. Assets/(Kimbug SASS) 6. favicon.md",
+    "3.Resources/3-2.강의/김버그_SASS/2. Assets/(Kimbug SASS) 5. icon-fonts.md",
+    "3.Resources/3-2.강의/김버그_SASS/1. 개발 환경 설정/(Kimbug SASS) 2. Node 및 node-sass 개발 환경 설정.md",
+    "3.Resources/3-2.강의/김버그_SASS/2. Assets/(Kimbug SASS) 4. image export.md",
+    "3.Resources/3-2.강의/김버그_SASS/2. Assets/(Kimbug SASS) 3. Font.md",
+    "3.Resources/CSS/SASS/Node-sass vs. Dart sass.md",
+    "3.Resources/3-2.강의/김버그_SASS/1. 개발 환경 설정/(Kimbug SASS) 1. 강의 자료.md",
     "3.Resources/3-1.책/CSS 설계 실전 가이드/1. CSS의 역사와 문제점.md",
+    "3.Resources/3-1.책/CSS 설계 실전 가이드/2. CSS 설계 기본 및 실전.md",
+    "3.Resources/3-1.책/리액트를 다루는 기술/1. 리액트 시작.md",
     "3.Resources/3-1.책/CSS 설계 실전 가이드",
     "3.Resources/CSS/HTML, CSS Emmet.md",
     "3.Resources/DevTool/VSCode 단축키.md",
     "3.Resources/DevTool/IntelliJ  단축키.md",
-    "3.Resources/DevTool/VSCode.md",
-    "3.Resources/DevTool/IntelliJ.md",
-    "README.md",
     "3.Resources/DevTool",
-    "3.Resources/CSS/stylelint, prettier 설치 및 설정.md",
-    "3.Resources/CSS/CSS box-sizing 속성.md",
-    "Inbox/HTML.md",
-    "3.Resources/CSS/CSS.md",
-    "3.Resources/CSS/Vector, Raster 이미지.md",
-    "3.Resources/CSS/구글 Network Font를 적용하기.md",
-    "3.Resources/CSS/좋은 CSS 설계를 위한 네 가지 목표와 여덟 가지 포인트.md",
-    "2.Areas/기록법/제텔카스텐_슬기로운메모생활/제텔카스텐 - 3부. 성공적인 글쓰기에 이르는 여섯 단계.md",
-    "2.Areas/기록법/제텔카스텐_슬기로운메모생활/제텔카스텐 - 2부. 네 가지 기본 원칙.md",
-    "3.Resources/3-2.강의/김버그_CSS/FunnyCSS_2.Selectors (선택자).md",
-    "3.Resources/3-2.강의/김버그_CSS/FunnyCSS_6.Flex.md",
-    "3.Resources/3-2.강의/김버그_CSS/FunnyCSS_5.Position.md",
-    "3.Resources/3-2.강의/김버그_CSS/FunnyCSS_4.Float.md",
-    "3.Resources/3-2.강의/김버그_CSS/FunnyCSS_3.Box.md",
-    "3.Resources/CSS/SASS/node-sass --source-map 옵션.md",
-    "3.Resources/Git/(Git) 리모트-트래킹 브랜치 (Remote-tracking branches).md",
-    "3.Resources/Git/Git.md",
-    "3.Resources/3-1.책/리액트를 다루는 기술/10. 일정 관리 웹 애플리케이션 만들기.md",
     "3.Resources/CSS/SASS",
     "Files/ReactDevServerStartPage.png",
     "3.Resources/3-1.책/리액트를 다루는 기술",

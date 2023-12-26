@@ -7,7 +7,7 @@ MDN: [position - CSS: Cascading Style Sheets | MDN (mozilla.org)](https://develo
 
 # Position
 
-문서 상에서 요소를 배치하는 방법을 지정합니다.
+**문서 상에서 요소를 배치하는 방법을 지정**합니다.
 
 아래 각 Position Type에 따라, 기준점이 무엇인지 잘 생각해야 합니다.
 
@@ -16,6 +16,10 @@ MDN: [position - CSS: Cascading Style Sheets | MDN (mozilla.org)](https://develo
 static을 제외하고는 float 처럼 자기 원래 위치로 부터 띄우는 현상이 있는데, 이 높이 순서를 정해야 하는데 이 때 `z-index`를 사용합니다.
 
 ![[imageFrom김버그CSS_z-index.png]]
+
+```css
+position: static;
+```
 
 ## static
 

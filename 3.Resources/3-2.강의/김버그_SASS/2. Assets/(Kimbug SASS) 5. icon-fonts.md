@@ -34,8 +34,8 @@ created: 2023-11-06
     2. prefic: ic-
     3. css selector: "Use I (for selecting i)" 체크
 6. 다운로드
-7. zip 파일 내 fonts 폴더 안의 파일들을 `assets/fonts/`로 copy
-8. zip 파일 내 style.css 내용을 `style/base/_fonts.scss` 에 copy
+7. zip 파일 내 `fonts 폴더`를 `assets/fonts/`로 copy
+8. zip 파일 내 `style.css 파일`을 `styles/base/_fonts.scss`로 이름도 변경해서 copy
     1. 내용보면 url() 있는데 이 안의 내용만 './assets/fonts/~'가 되도록 수정 (생성 될 main.css 위치 기준임)
     2. url() 안에 ?...#~ 부분에 해시값 있는데 ... 내용은 지워도 됨
 
@@ -43,6 +43,7 @@ created: 2023-11-06
 
 package.json에는 `"sass": "node-sass -wr styles/main.scss ./style.css"` 만 있어 main.scss만 알고 있습니다.
 
+- styles/main.scss 파일 생성하고
 - maint.scss에 @import를 해줍니다.
 - 파일이름은 `./base/_fonts.scss`지만 `fonts`로 깔쌈하게 적습니다.
 

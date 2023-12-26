@@ -5,7 +5,33 @@ created: 2023-10-10
 
 ## box-sizing
 
-box-siing은 CSS에서 box model을 어떻게 계산할지 결정하는 속성입니다. 기본값은 content-box이지만, **주로 border-box를 사용**합니다.
+box-sizing은 CSS에서 box model을 어떻게 계산할지 결정하는 속성입니다. 
 
-- content-box: 너비(witdh)와 높이(height)가 content의 영역만을 포함합니다. padding과 border는 너비와 높이에 추가로 더해집니다.
-- border-box: 너비와 높이는 content, padding, border까지 포함합니다. content의 사이즈는 `너비 - border - padding` 값이 계산된 값을 사이즈로 갖습니다.
+### content-box (default)
+
+```css
+.content-box-example {
+  box-sizing: content-box; /* 기본값이지만 명시적으로 설정 */
+  width: 300px; /* 콘텐츠 영역만 300px */
+  padding: 20px; /* 패딩 추가 */
+  border: 5px solid black; /* 보더 추가 */
+}
+```
+
+- witdh와 height가 **content의 영역만** 포함합니다.
+- padding과 border는 너비와 높이에 추가로 더해집니다.
+
+### border-box (대부분의 개발자가 선호)
+
+```css
+.border-box-example {
+  box-sizing: border-box;
+  width: 300px; /* 전체 박스 크기는 300px */
+  padding: 20px; /* 패딩 포함 */
+  border: 5px solid black; /* 보더 포함 */
+}
+```
+
+- witdh와 height가 **content, padding, border까지 포함**합니다.
+- 컨텐츠 사이즈 계산 : `content = width - border - padding`
+- 직관적이어서 대부분의 개발자가 선호합니다.
