@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/3-2.강의/김버그_CSS101/CSS101_8.Typography.md",
+                "file": "2.Areas/기록법/옵시디언/Obsidian 표 편집 기능 (v1.5).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -49,21 +49,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "emm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "2ad2b2a8a78cfaeb",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
             }
           }
         ]
@@ -86,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resources/3-2.강의/김버그_CSS101/CSS101_8.Typography.md",
+                "file": "2.Areas/기록법/옵시디언/Obsidian 표 편집 기능 (v1.5).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resources/3-2.강의/김버그_CSS101/CSS101_8.Typography.md",
+                "file": "2.Areas/기록법/옵시디언/Obsidian 표 편집 기능 (v1.5).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/3-2.강의/김버그_CSS101/CSS101_8.Typography.md"
+                "file": "2.Areas/기록법/옵시디언/Obsidian 표 편집 기능 (v1.5).md"
               }
             }
           },
@@ -162,36 +154,37 @@
   },
   "active": "44b6e5de441ab7d0",
   "lastOpenFiles": [
-    "3.Resources/3-2.강의/김버그_CSS101/CSS101_2.Selectors (선택자).md",
-    "3.Resources/3-2.강의/김버그_CSS101/CSS101_8.Typography.md",
-    "3.Resources/3-2.강의/김버그_CSS101/Typography/CSS101_8-1.font-size.md",
-    "3.Resources/3-2.강의/김버그_CSS101/Typography/CSS101_8-6.color.md",
-    "3.Resources/3-2.강의/김버그_CSS101/Typography/CSS101_8-5.font-weight.md",
+    "2.Areas/기록법/옵시디언/Obsidian.md",
+    "2.Areas/기록법/옵시디언/Obsidian 표 편집 기능 (v1.5).md",
+    "2.Areas/기록법/옵시디언/Obsidian 특수 포맷.md",
+    "2.Areas/기록법/제텔카스텐_슬기로운메모생활/제텔카스텐 - 3부. 성공적인 글쓰기에 이르는 여섯 단계.md",
+    "3.Resources/HTML,CSS/코드 단축 'Emmet'.md",
+    "3.Resources/3-2.강의/정수원_SpringBatch/1.스프링 배치 소개/1-1.개요.md",
+    "2.Areas/기록법/제텔카스텐_슬기로운메모생활/제텔카스텐 - 1부. 도입.md",
+    "2.Areas/기록법/제텔카스텐_슬기로운메모생활/제텔카스텐 - 2부. 네 가지 기본 원칙.md",
+    "2.Areas/기록법/세컨드브레인(책)/세컨드 브레인 책 요약.md",
+    "3.Resources/DevTool/VSCode 단축키.md",
+    "3.Resources/DevTool/IntelliJ  단축키.md",
+    "3.Resources/DevTool/VSCode.md",
+    "3.Resources/3-2.강의/김버그_CSS101/Typography/CSS101_8-7.text-align (텍스트 정렬).md",
+    "3.Resources/3-2.강의/김버그_CSS101/무제 파일.md",
     "3.Resources/3-2.강의/김버그_CSS101/Typography/CSS101_8-4.font-family.md",
+    "3.Resources/3-2.강의/김버그_CSS101/Typography/CSS101_8-5.font-weight.md",
+    "3.Resources/3-2.강의/김버그_CSS101/Typography/CSS101_8-6.color.md",
+    "3.Resources/3-2.강의/김버그_CSS101/CSS101_8.Typography.md",
+    "3.Resources/3-2.강의/김버그_CSS101/CSS101_2.Selectors (선택자).md",
+    "3.Resources/3-2.강의/김버그_CSS101/Typography/CSS101_8-1.font-size.md",
     "3.Resources/3-2.강의/김버그_CSS101/Typography/CSS101_8-3.letter-spacing (자간).md",
     "3.Resources/3-2.강의/김버그_CSS101/Typography/CSS101_8-2.line-height (줄 간격).md",
     "3.Resources/3-2.강의/김버그_CSS101/CSS101_7.Media Query.md",
-    "3.Resources/3-2.강의/김버그_CSS101/무제 파일.md",
     "3.Resources/3-2.강의/김버그_CSS101/Typography",
     "Files/Pasted image 20240102005000.png",
     "3.Resources/3-2.강의/김버그_CSS101/CSS101.md",
     "3.Resources/3-2.강의/김버그_CSS101/CSS101_6.Flex.md",
     "3.Resources/3-2.강의/김버그_CSS101/CSS101_5.Position.md",
-    "3.Resources/3-2.강의/김버그_CSS101/CSS101_4.Float.md",
-    "3.Resources/3-2.강의/김버그_CSS101/CSS101_3.Box.md",
-    "3.Resources/3-2.강의/김버그_CSS101/CSS101_1.강의를 듣는 방법.md",
-    "3.Resources/CSS/HTML, CSS Emmet.md",
-    "Inbox/무제 파일.md",
-    "3.Resources/CSS/CSS box-sizing 속성.md",
-    "3.Resources/CSS/display/CSS display-block.md",
-    "3.Resources/CSS/display/CSS display-inline.md",
-    "3.Resources/CSS/display/CSS display-inline-block.md",
-    "3.Resources/3-2.강의/김버그_SASS/2. Assets/(Kimbug SASS) 7. Reset CSS.md",
-    "3.Resources/3-2.강의/김버그_SASS/2. Assets/(Kimbug SASS) 6. favicon.md",
-    "3.Resources/3-2.강의/김버그_SASS/2. Assets/(Kimbug SASS) 5. icon-fonts.md",
     "3.Resources/3-1.책/CSS 설계 실전 가이드",
     "3.Resources/DevTool",
-    "3.Resources/CSS/SASS",
+    "3.Resources/HTML,CSS/SASS",
     "Files/ReactDevServerStartPage.png",
     "3.Resources/3-1.책/리액트를 다루는 기술",
     "3.Resources/React",
