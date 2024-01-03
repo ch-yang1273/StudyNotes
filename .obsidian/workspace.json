@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Areas/기록법/옵시디언/Obsidian 표 편집 기능 (v1.5).md",
-                "mode": "source",
+                "file": "3.Resources/Spring/(강의)정수원_SpringBatch/1.스프링 배치 소개/1-1.개요.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "emm",
+                "query": "[\"source\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 315.5,
+    "collapsed": true
   },
   "right": {
     "id": "065d8a4f3451fb00",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Areas/기록법/옵시디언/Obsidian 표 편집 기능 (v1.5).md",
+                "file": "3.Resources/Spring/(강의)정수원_SpringBatch/1.스프링 배치 소개/1-1.개요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Areas/기록법/옵시디언/Obsidian 표 편집 기능 (v1.5).md",
+                "file": "3.Resources/Spring/(강의)정수원_SpringBatch/1.스프링 배치 소개/1-1.개요.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Areas/기록법/옵시디언/Obsidian 표 편집 기능 (v1.5).md"
+                "file": "3.Resources/Spring/(강의)정수원_SpringBatch/1.스프링 배치 소개/1-1.개요.md"
               }
             }
           },
@@ -133,9 +134,19 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "a80f52e9526e0dce",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "3.Resources/Spring/(강의)정수원_SpringBatch/1.스프링 배치 소개/1-1.개요.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -152,36 +163,39 @@
       "workspaces:작업 공간 레이아웃 관리": false
     }
   },
-  "active": "44b6e5de441ab7d0",
+  "active": "a6f314c8c599f3ee",
   "lastOpenFiles": [
-    "2.Areas/기록법/옵시디언/Obsidian.md",
+    "3.Resources/HTML,CSS/(강의)김버그_CSS101/CSS101_9.Background.md",
+    "3.Resources/HTML,CSS/(강의)김버그_CSS101/CSS101_8.Typography.md",
+    "Files/Pasted image 20240104011521.png",
+    "Files/Pasted image 20240104011212.png",
+    "Files/Pasted image 20240104011008.png",
+    "Files/Pasted image 20240104010828.png",
+    "3.Resources/HTML,CSS/(강의)김버그_CSS101/Typography/CSS101_8-6.color.md",
+    "3.Resources/HTML,CSS/(강의)김버그_CSS101/Typography/CSS101_8-7.ETC.md",
+    "3.Resources/3-2.강의/김버그_CSS101/Typography/CSS101_8-8.text-indent (들여쓰기).md",
+    "3.Resources/HTML,CSS/(강의)김버그_CSS101/Typography/CSS101_8-1.font-size.md",
+    "3.Resources/Git/(Git) 리모트-트래킹 브랜치 (Remote-tracking branches).md",
     "2.Areas/기록법/옵시디언/Obsidian 표 편집 기능 (v1.5).md",
     "2.Areas/기록법/옵시디언/Obsidian 특수 포맷.md",
-    "2.Areas/기록법/제텔카스텐_슬기로운메모생활/제텔카스텐 - 3부. 성공적인 글쓰기에 이르는 여섯 단계.md",
     "3.Resources/HTML,CSS/코드 단축 'Emmet'.md",
-    "3.Resources/3-2.강의/정수원_SpringBatch/1.스프링 배치 소개/1-1.개요.md",
+    "3.Resources/HTML,CSS/(강의)김버그_CSS101/CSS101.md",
+    "2.Areas/기록법/옵시디언/Obsidian.md",
+    "2.Areas/기록법/제텔카스텐_슬기로운메모생활/제텔카스텐 - 3부. 성공적인 글쓰기에 이르는 여섯 단계.md",
+    "3.Resources/Spring/(강의)정수원_SpringBatch/1.스프링 배치 소개/1-1.개요.md",
     "2.Areas/기록법/제텔카스텐_슬기로운메모생활/제텔카스텐 - 1부. 도입.md",
     "2.Areas/기록법/제텔카스텐_슬기로운메모생활/제텔카스텐 - 2부. 네 가지 기본 원칙.md",
     "2.Areas/기록법/세컨드브레인(책)/세컨드 브레인 책 요약.md",
     "3.Resources/DevTool/VSCode 단축키.md",
     "3.Resources/DevTool/IntelliJ  단축키.md",
     "3.Resources/DevTool/VSCode.md",
-    "3.Resources/3-2.강의/김버그_CSS101/Typography/CSS101_8-7.text-align (텍스트 정렬).md",
-    "3.Resources/3-2.강의/김버그_CSS101/무제 파일.md",
-    "3.Resources/3-2.강의/김버그_CSS101/Typography/CSS101_8-4.font-family.md",
-    "3.Resources/3-2.강의/김버그_CSS101/Typography/CSS101_8-5.font-weight.md",
-    "3.Resources/3-2.강의/김버그_CSS101/Typography/CSS101_8-6.color.md",
-    "3.Resources/3-2.강의/김버그_CSS101/CSS101_8.Typography.md",
-    "3.Resources/3-2.강의/김버그_CSS101/CSS101_2.Selectors (선택자).md",
-    "3.Resources/3-2.강의/김버그_CSS101/Typography/CSS101_8-1.font-size.md",
-    "3.Resources/3-2.강의/김버그_CSS101/Typography/CSS101_8-3.letter-spacing (자간).md",
-    "3.Resources/3-2.강의/김버그_CSS101/Typography/CSS101_8-2.line-height (줄 간격).md",
-    "3.Resources/3-2.강의/김버그_CSS101/CSS101_7.Media Query.md",
-    "3.Resources/3-2.강의/김버그_CSS101/Typography",
+    "3.Resources/HTML,CSS/(강의)김버그_CSS101/Typography/CSS101_8-4.font-family.md",
+    "3.Resources/HTML,CSS/(강의)김버그_CSS101/Typography/CSS101_8-5.font-weight.md",
+    "3.Resources/HTML,CSS/(강의)김버그_CSS101/CSS101_2.Selectors (선택자).md",
+    "3.Resources/HTML,CSS/(강의)김버그_CSS101/Typography/CSS101_8-3.letter-spacing (자간).md",
+    "3.Resources/HTML,CSS/(강의)김버그_CSS101/Typography/CSS101_8-2.line-height (줄 간격).md",
+    "3.Resources/HTML,CSS/(강의)김버그_CSS101/Typography",
     "Files/Pasted image 20240102005000.png",
-    "3.Resources/3-2.강의/김버그_CSS101/CSS101.md",
-    "3.Resources/3-2.강의/김버그_CSS101/CSS101_6.Flex.md",
-    "3.Resources/3-2.강의/김버그_CSS101/CSS101_5.Position.md",
     "3.Resources/3-1.책/CSS 설계 실전 가이드",
     "3.Resources/DevTool",
     "3.Resources/HTML,CSS/SASS",
@@ -190,15 +204,11 @@
     "3.Resources/React",
     "Files/SpringBatch_IDE에서_JobParameter전달.png",
     "Files/SpringBatch_Jar실행시_JobParameter전달.png",
-    "3.Resources/3-2.강의/정수원_SpringBatch/3.스프링 배치 도메인 이해",
+    "3.Resources/Spring/(강의)정수원_SpringBatch/3.스프링 배치 도메인 이해",
     "Files/Pasted image 20231128072533.png",
     "Files/batch-table-missing.jpg",
-    "3.Resources/3-2.강의/정수원_SpringBatch/2.스프링 배치 시작",
-    "Files/Spring-batch-layers.png",
+    "3.Resources/Spring/(강의)정수원_SpringBatch/2.스프링 배치 시작",
     "3.Resources/Spring",
-    "3.Resources/3-2.강의/정수원_SpringBatch/1.스프링 배치 소개",
-    "Files/Pasted image 20231115010256.png",
-    "Files/Pasted image 20231115005249.png",
-    "Files/Pasted image 20231115004502.png"
+    "3.Resources/Spring/(강의)정수원_SpringBatch/1.스프링 배치 소개"
   ]
 }

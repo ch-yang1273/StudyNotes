@@ -50,9 +50,3 @@ Local 영역에서 `origin/master`, `origin/branch1`과 같은 브랜치의 상�
 ### fetch vs. pull
 
 이 `Remote-tracking branches`를 이해했다면, `git fetch`와 `git pull`의 차이도 이해하기 좋습니다.
-
-...
-
-어디서는 git pull 대신 git fetch, git merge를 사용하라고 하지만, 개인적으로 merge 이름이 주는 압박이 있어서 git fetch로 Remote Repository를 확인 후에 그냥 git pull을 하는 편입니다.
-
-...
